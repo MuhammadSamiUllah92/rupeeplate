@@ -1,0 +1,888 @@
+{
+ "b_paratha_omelette": {
+  "name": "Paratha, omelette and chai",
+  "t": "B",
+  "c": [
+   "punjabi",
+   "pashtun",
+   "desi"
+  ],
+  "items": {
+   "paratha": 1,
+   "omelette": 1,
+   "chai": 1
+  }
+ },
+ "b_chana_roti": {
+  "name": "Chana with roti and chai",
+  "t": "B",
+  "c": [
+   "punjabi",
+   "desi"
+  ],
+  "items": {
+   "chana_masala": 1,
+   "roti": 1,
+   "chai": 1
+  }
+ },
+ "b_roti_omelette_dahi": {
+  "name": "Roti, omelette and yogurt",
+  "t": "B",
+  "c": [
+   "pashtun",
+   "desi"
+  ],
+  "items": {
+   "roti": 2,
+   "omelette": 1,
+   "dahi": 1
+  }
+ },
+ "b_paratha_aloo": {
+  "name": "Paratha with aloo sabzi and chai",
+  "t": "B",
+  "c": [
+   "punjabi",
+   "desi"
+  ],
+  "items": {
+   "paratha": 1,
+   "aloo": 1,
+   "chai": 1
+  }
+ },
+ "b_khichdi_dahi": {
+  "name": "Khichdi with yogurt",
+  "t": "B",
+  "c": [
+   "sindhi",
+   "light"
+  ],
+  "items": {
+   "khichdi": 1,
+   "dahi": 1
+  }
+ },
+ "b_egg_toast": {
+  "name": "Boiled eggs, toast and milk tea",
+  "t": "B",
+  "c": [
+   "light",
+   "desi"
+  ],
+  "items": {
+   "egg_boiled": 2,
+   "bread": 1,
+   "chai": 1
+  }
+ },
+ "b_oats_banana": {
+  "name": "Oats with banana",
+  "t": "B",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "oats": 1,
+   "banana": 1
+  }
+ },
+ "b_daal_roti": {
+  "name": "Daal chana with roti and chai",
+  "t": "B",
+  "c": [
+   "sindhi",
+   "pashtun"
+  ],
+  "items": {
+   "daal_chana": 1,
+   "roti": 1,
+   "chai": 1
+  }
+ },
+ "b_pb_toast": {
+  "name": "Bread, peanut butter, banana and milk",
+  "t": "B",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "bread": 1,
+   "peanut_butter": 1,
+   "banana": 1,
+   "milk": 1
+  }
+ },
+ "b_dahi_dates": {
+  "name": "Yogurt, dates and bread",
+  "t": "B",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "dahi": 1,
+   "dates": 1,
+   "bread": 1
+  }
+ },
+ "b_milk_chana": {
+  "name": "Milk, roasted chana and banana",
+  "t": "B",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "milk": 1,
+   "chana_roast": 1,
+   "banana": 1
+  }
+ },
+ "b_oats_dates": {
+  "name": "Oats with dates",
+  "t": "B",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "oats": 1,
+   "dates": 1
+  }
+ },
+ "c_chicken_rice": {
+  "name": "Chicken curry, rice and salad",
+  "t": "LD",
+  "c": [
+   "punjabi",
+   "desi",
+   "sindhi"
+  ],
+  "items": {
+   "chicken_salan": 1,
+   "rice": 1,
+   "salad": 1
+  }
+ },
+ "c_masoor_rice": {
+  "name": "Daal masoor, rice and salad",
+  "t": "LD",
+  "c": [
+   "sindhi",
+   "desi",
+   "light"
+  ],
+  "items": {
+   "daal_masoor": 1,
+   "rice": 1,
+   "salad": 1
+  }
+ },
+ "c_chana_roti": {
+  "name": "Chana masala, roti and yogurt",
+  "t": "LD",
+  "c": [
+   "punjabi",
+   "pashtun"
+  ],
+  "items": {
+   "chana_masala": 1,
+   "roti": 2,
+   "dahi": 1
+  }
+ },
+ "c_palak_roti": {
+  "name": "Palak, roti and yogurt",
+  "t": "LD",
+  "c": [
+   "pashtun",
+   "punjabi",
+   "light"
+  ],
+  "items": {
+   "palak": 1,
+   "roti": 2,
+   "dahi": 1
+  }
+ },
+ "c_mixveg_daal": {
+  "name": "Mixed vegetables, daal and roti",
+  "t": "LD",
+  "c": [
+   "light",
+   "desi"
+  ],
+  "items": {
+   "mixveg": 1,
+   "daal_masoor": 1,
+   "roti": 2
+  }
+ },
+ "c_keema_roti": {
+  "name": "Keema, roti and salad",
+  "t": "LD",
+  "c": [
+   "pashtun",
+   "punjabi"
+  ],
+  "items": {
+   "keema": 1,
+   "roti": 2,
+   "salad": 1
+  }
+ },
+ "c_beef_roti": {
+  "name": "Beef curry, roti and salad",
+  "t": "LD",
+  "c": [
+   "pashtun",
+   "punjabi",
+   "desi"
+  ],
+  "items": {
+   "beef_curry": 1,
+   "roti": 2,
+   "salad": 1
+  }
+ },
+ "c_fish_rice": {
+  "name": "Fried fish, rice and salad",
+  "t": "LD",
+  "c": [
+   "sindhi"
+  ],
+  "items": {
+   "fish_fry": 1,
+   "rice": 1,
+   "salad": 1
+  }
+ },
+ "c_lobia_rice": {
+  "name": "Lobia with rice and salad",
+  "t": "LD",
+  "c": [
+   "sindhi",
+   "light"
+  ],
+  "items": {
+   "lobia": 1,
+   "rice": 1,
+   "salad": 1
+  }
+ },
+ "c_pulao_dahi": {
+  "name": "Vegetable pulao, yogurt and salad",
+  "t": "LD",
+  "c": [
+   "sindhi",
+   "punjabi"
+  ],
+  "items": {
+   "pulao": 1,
+   "dahi": 1,
+   "salad": 1
+  }
+ },
+ "c_breast_rice": {
+  "name": "Grilled chicken, rice and vegetables",
+  "t": "LD",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "chicken_breast": 1,
+   "rice": 1,
+   "mixveg": 1
+  }
+ },
+ "c_soya_roti": {
+  "name": "Soya curry, roti and salad",
+  "t": "LD",
+  "c": [
+   "light",
+   "desi"
+  ],
+  "items": {
+   "soya": 1,
+   "roti": 2,
+   "salad": 1
+  }
+ },
+ "c_bhindi_daal": {
+  "name": "Bhindi, daal chana and roti",
+  "t": "LD",
+  "c": [
+   "sindhi",
+   "punjabi",
+   "desi"
+  ],
+  "items": {
+   "bhindi": 1,
+   "daal_chana": 1,
+   "roti": 2
+  }
+ },
+ "c_mash_roti": {
+  "name": "Daal mash, roti and yogurt",
+  "t": "LD",
+  "c": [
+   "punjabi",
+   "pashtun"
+  ],
+  "items": {
+   "daal_mash": 1,
+   "roti": 2,
+   "dahi": 1
+  }
+ },
+ "c_omelette_rice": {
+  "name": "Omelette, rice and daal",
+  "t": "LD",
+  "c": [
+   "desi",
+   "sindhi"
+  ],
+  "items": {
+   "omelette": 1,
+   "rice": 1,
+   "daal_masoor": 1
+  }
+ },
+ "c_khichdi_aloo": {
+  "name": "Khichdi, aloo and yogurt",
+  "t": "LD",
+  "c": [
+   "sindhi",
+   "desi"
+  ],
+  "items": {
+   "khichdi": 1,
+   "aloo": 1,
+   "dahi": 1
+  }
+ },
+ "c_chicken_roti": {
+  "name": "Chicken curry, roti and salad",
+  "t": "LD",
+  "c": [
+   "pashtun",
+   "punjabi",
+   "desi"
+  ],
+  "items": {
+   "chicken_salan": 1,
+   "roti": 2,
+   "salad": 1
+  }
+ },
+ "c_keema_rice": {
+  "name": "Keema, rice and salad",
+  "t": "LD",
+  "c": [
+   "punjabi",
+   "pashtun"
+  ],
+  "items": {
+   "keema": 1,
+   "rice": 1,
+   "salad": 1
+  }
+ },
+ "c_fish_roti": {
+  "name": "Fried fish, roti and salad",
+  "t": "LD",
+  "c": [
+   "sindhi",
+   "light"
+  ],
+  "items": {
+   "fish_fry": 1,
+   "roti": 2,
+   "salad": 1
+  }
+ },
+ "c_beef_rice": {
+  "name": "Beef curry and rice",
+  "t": "LD",
+  "c": [
+   "desi",
+   "pashtun"
+  ],
+  "items": {
+   "beef_curry": 1,
+   "rice": 1,
+   "salad": 1
+  }
+ },
+ "c_aloo_omelette": {
+  "name": "Omelette, aloo sabzi and roti",
+  "t": "LD",
+  "c": [
+   "desi",
+   "punjabi"
+  ],
+  "items": {
+   "omelette": 1,
+   "aloo": 1,
+   "roti": 2
+  }
+ },
+ "c_daal_roti": {
+  "name": "Daal masoor, roti and salad",
+  "t": "LD",
+  "c": [
+   "light",
+   "desi",
+   "sindhi"
+  ],
+  "items": {
+   "daal_masoor": 1,
+   "roti": 2,
+   "salad": 1
+  }
+ },
+ "n_pb_yogurt": {
+  "name": "Bread, peanut butter, yogurt and salad",
+  "t": "LD",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "bread": 1,
+   "peanut_butter": 1,
+   "dahi": 1,
+   "salad": 1
+  }
+ },
+ "n_chana_dahi": {
+  "name": "Roasted chana, yogurt, bread and salad",
+  "t": "LD",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "chana_roast": 2,
+   "dahi": 1,
+   "bread": 1,
+   "salad": 1
+  }
+ },
+ "n_peanut_dahi": {
+  "name": "Peanuts, bread, yogurt and salad",
+  "t": "LD",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "peanuts": 2,
+   "bread": 1,
+   "dahi": 1,
+   "salad": 1
+  }
+ },
+ "s_banana_peanuts": {
+  "name": "Banana and peanuts",
+  "t": "S",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "banana": 1,
+   "peanuts": 1
+  }
+ },
+ "s_dahi_dates": {
+  "name": "Yogurt and dates",
+  "t": "S",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "dahi": 1,
+   "dates": 1
+  }
+ },
+ "s_chai_chana": {
+  "name": "Milk tea and roasted chana",
+  "t": "S",
+  "c": [
+   "desi"
+  ],
+  "items": {
+   "chai": 1,
+   "chana_roast": 1
+  }
+ },
+ "s_apple_pb": {
+  "name": "Apple with peanut butter",
+  "t": "S",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "apple": 1,
+   "peanut_butter": 1
+  }
+ },
+ "s_guava_chana": {
+  "name": "Guava and roasted chana",
+  "t": "S",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "guava": 1,
+   "chana_roast": 1
+  }
+ },
+ "s_milk_banana": {
+  "name": "Milk and banana",
+  "t": "S",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "milk": 1,
+   "banana": 1
+  }
+ },
+ "s_egg_guava": {
+  "name": "Boiled egg and guava",
+  "t": "S",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "egg_boiled": 1,
+   "guava": 1
+  }
+ },
+ "n_dahi_dates": {
+  "name": "Bread, yogurt, dates and salad",
+  "t": "LD",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "bread": 1,
+   "dahi": 1,
+   "dates": 1,
+   "salad": 1
+  }
+ },
+ "n_chana_nuts": {
+  "name": "Roasted chana, peanuts, banana and milk",
+  "t": "LD",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "chana_roast": 1,
+   "peanuts": 1,
+   "banana": 1,
+   "milk": 1
+  }
+ },
+ "n_pb_milk": {
+  "name": "Peanut butter bread, milk and salad",
+  "t": "LD",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "bread": 1,
+   "peanut_butter": 1,
+   "milk": 1,
+   "salad": 1
+  }
+ },
+ "n_chana_pb": {
+  "name": "Roasted chana, peanut butter bread and yogurt",
+  "t": "LD",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "chana_roast": 2,
+   "bread": 1,
+   "peanut_butter": 1,
+   "dahi": 1
+  }
+ },
+ "k_egg_bread": {
+  "name": "Boiled eggs, bread, yogurt and salad",
+  "t": "LD",
+  "c": [
+   "light",
+   "desi"
+  ],
+  "items": {
+   "egg_boiled": 2,
+   "bread": 1,
+   "dahi": 1,
+   "salad": 1
+  }
+ },
+ "k_egg_oats": {
+  "name": "Boiled eggs, oats with milk and banana",
+  "t": "LD",
+  "c": [
+   "light"
+  ],
+  "items": {
+   "egg_boiled": 2,
+   "oats": 1,
+   "banana": 1
+  }
+ },
+ "w_scramble": {
+  "name": "Scrambled eggs on toast with milk",
+  "t": "B",
+  "c": [
+   "western",
+   "mideast"
+  ],
+  "items": {
+   "scrambled_eggs": 1,
+   "bread": 1,
+   "milk": 1
+  }
+ },
+ "w_pancakes": {
+  "name": "Pancakes with banana",
+  "t": "B",
+  "c": [
+   "western"
+  ],
+  "items": {
+   "pancakes": 1,
+   "banana": 1,
+   "dahi": 1
+  }
+ },
+ "w_cheese_toast": {
+  "name": "Cheese toast, banana and milk tea",
+  "t": "B",
+  "c": [
+   "western",
+   "italian"
+  ],
+  "items": {
+   "cheese_toast": 1,
+   "banana": 1,
+   "chai": 1
+  }
+ },
+ "m_b_plate": {
+  "name": "Yogurt, dates, boiled egg and bread",
+  "t": "B",
+  "c": [
+   "mideast"
+  ],
+  "items": {
+   "dahi": 1,
+   "dates": 1,
+   "egg_boiled": 1,
+   "bread": 1
+  }
+ },
+ "w_chicken_potato": {
+  "name": "Pan-cooked chicken, mashed potato and vegetables",
+  "t": "LD",
+  "c": [
+   "western"
+  ],
+  "items": {
+   "chicken_breast": 1,
+   "mashed_potato": 1,
+   "mixveg": 1
+  }
+ },
+ "w_soup_toast": {
+  "name": "Tomato soup, cheese toast and salad",
+  "t": "LD",
+  "c": [
+   "western",
+   "italian"
+  ],
+  "items": {
+   "tomato_soup": 1,
+   "cheese_toast": 1,
+   "salad": 1
+  }
+ },
+ "i_pasta": {
+  "name": "Tomato pasta with salad",
+  "t": "LD",
+  "c": [
+   "italian"
+  ],
+  "items": {
+   "pasta_tomato": 1,
+   "salad": 1
+  }
+ },
+ "i_pasta_chicken": {
+  "name": "Chicken pasta with salad",
+  "t": "LD",
+  "c": [
+   "italian",
+   "western"
+  ],
+  "items": {
+   "pasta_chicken": 1,
+   "salad": 1
+  }
+ },
+ "i_pasta_egg": {
+  "name": "Tomato pasta with boiled eggs",
+  "t": "LD",
+  "c": [
+   "italian"
+  ],
+  "items": {
+   "pasta_tomato": 1,
+   "egg_boiled": 2
+  }
+ },
+ "ch_fried_rice": {
+  "name": "Egg fried rice with vegetable stir-fry",
+  "t": "LD",
+  "c": [
+   "chinese"
+  ],
+  "items": {
+   "fried_rice": 1,
+   "veg_stirfry": 1
+  }
+ },
+ "ch_chowmein": {
+  "name": "Chicken chow mein with salad",
+  "t": "LD",
+  "c": [
+   "chinese"
+  ],
+  "items": {
+   "chowmein": 1,
+   "salad": 1
+  }
+ },
+ "ch_chicken_rice": {
+  "name": "Chicken stir-fry with rice",
+  "t": "LD",
+  "c": [
+   "chinese"
+  ],
+  "items": {
+   "chicken_stirfry": 1,
+   "rice": 1
+  }
+ },
+ "ch_veg_rice": {
+  "name": "Vegetable stir-fry, rice and boiled egg",
+  "t": "LD",
+  "c": [
+   "chinese",
+   "light"
+  ],
+  "items": {
+   "veg_stirfry": 1,
+   "rice": 1,
+   "egg_boiled": 1
+  }
+ },
+ "x_burrito": {
+  "name": "Bean burrito with salad",
+  "t": "LD",
+  "c": [
+   "mexican"
+  ],
+  "items": {
+   "bean_burrito": 1,
+   "salad": 1
+  }
+ },
+ "x_wrap": {
+  "name": "Chicken wrap with salad",
+  "t": "LD",
+  "c": [
+   "mexican",
+   "western"
+  ],
+  "items": {
+   "chicken_wrap": 1,
+   "salad": 1
+  }
+ },
+ "x_rice_beans": {
+  "name": "Rice and lobia bowl with yogurt",
+  "t": "LD",
+  "c": [
+   "mexican"
+  ],
+  "items": {
+   "rice": 1,
+   "lobia": 1,
+   "dahi": 1
+  }
+ },
+ "x_wrap_two": {
+  "name": "Two chicken wraps and a banana",
+  "t": "LD",
+  "c": [
+   "mexican"
+  ],
+  "items": {
+   "chicken_wrap": 2,
+   "banana": 1
+  }
+ },
+ "m_shakshuka": {
+  "name": "Shakshuka with bread and yogurt",
+  "t": "BLD",
+  "c": [
+   "mideast"
+  ],
+  "items": {
+   "shakshuka": 1,
+   "bread": 1,
+   "dahi": 1
+  }
+ },
+ "m_lentil_soup": {
+  "name": "Lentil soup with bread and salad",
+  "t": "LD",
+  "c": [
+   "mideast",
+   "light"
+  ],
+  "items": {
+   "lentil_soup": 1,
+   "bread": 1,
+   "salad": 1
+  }
+ },
+ "m_shawarma": {
+  "name": "Chicken shawarma plate with salad",
+  "t": "LD",
+  "c": [
+   "mideast"
+  ],
+  "items": {
+   "shawarma_plate": 1,
+   "salad": 1
+  }
+ },
+ "m_chickpea": {
+  "name": "Chickpea salad with bread and yogurt",
+  "t": "LD",
+  "c": [
+   "mideast",
+   "light"
+  ],
+  "items": {
+   "chickpea_salad": 1,
+   "bread": 1,
+   "dahi": 1
+  }
+ }
+}

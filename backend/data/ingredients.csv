@@ -1,0 +1,53 @@
+id,name,unit,price,kcal,protein_g,carbs_g,fat_g,source,group
+atta,Wheat flour (atta),kg,149,340,12,72,2.5,PBS week ended 22 Oct 2026 (20 kg bag Rs 2976),Grains & flour
+rice,Rice (IRRI-6/9),kg,155,360,7,80,0.6,PBS week ended 1 Oct 2026,Grains & flour
+masoor,Masoor daal (washed),kg,263,350,25,60,1.1,PBS week ended 1 Oct 2026,Pulses & soya
+chana_daal,Chana daal (gram pulse),kg,275,360,20,60,5.5,PBS week ended 1 Oct 2026,Pulses & soya
+mash,Mash daal (washed),kg,460,350,25,59,1.6,PBS week ended 1 Oct 2026,Pulses & soya
+lobia,Lobia (black-eyed beans),kg,350,340,24,60,1.3,estimate - verify,Pulses & soya
+chana,Chana (whole gram),kg,275,360,20,61,6,PBS week ended 1 Oct 2026,Pulses & soya
+roasted_chana,Roasted chana,kg,500,380,21,58,6,estimate - verify,Pulses & soya
+soya,Soya chunks,kg,450,345,52,33,0.5,estimate - verify,Pulses & soya
+potato,Potatoes,kg,51,77,2,17,0.1,PBS week ended 1 Oct 2026,Vegetables
+onion,Onions,kg,189,40,1.1,9,0.1,PBS week ended 22 Oct 2026,Vegetables
+tomato,Tomatoes,kg,93,18,0.9,3.9,0.2,PBS week ended 22 Oct 2026,Vegetables
+cucumber,Cucumber,kg,120,15,0.7,3.6,0.1,estimate - verify,Vegetables
+palak,Spinach (palak),kg,100,23,2.9,3.6,0.4,estimate - verify,Vegetables
+bhindi,Okra (bhindi),kg,220,33,1.9,7.5,0.2,estimate - verify,Vegetables
+mixveg,Mixed vegetables,kg,150,50,2.5,10,0.3,estimate - verify,Vegetables
+chicken,Chicken (with bone),kg,650,150,17,0,9,estimate from PBS live broiler Rs 444/kg 22 Oct 2026,Meat & fish
+chicken_boneless,Chicken breast (boneless),kg,900,120,23,0,2.6,estimate - verify,Meat & fish
+beef,Beef (with bone),kg,1100,190,18,0,13,estimate - verify,Meat & fish
+mince,Beef mince (keema),kg,1200,215,18,0,16,estimate - verify,Meat & fish
+fish,Fish (rohu),kg,700,100,17,0,3,estimate - verify,Meat & fish
+egg,Eggs,pc,21.8,72,6.3,0.4,5,PBS week ended 22 Oct 2026 (Rs 262 a dozen),Dairy & eggs
+milk,Fresh milk,l,219,65,3.3,4.8,3.5,PBS week ended 22 Oct 2026,Dairy & eggs
+uht_milk,UHT milk (packet),l,340,65,3.3,4.8,3.5,estimate - verify,Dairy & eggs
+dahi,Yogurt (dahi),kg,260,70,3.5,5,4,estimate - verify,Dairy & eggs
+oil,Cooking oil,l,605,810,0,0,92,"PBS Annex 1 Jan 2026 (5 L tin about Rs 3,030)",Pantry
+sugar,Sugar,kg,142,400,0,100,0,PBS week ended 22 Oct 2026,Pantry
+tea,Tea leaves,kg,2350,1,0,0,0,PBS Annex 1 Jan 2026 (190 g packet Rs 447),Pantry
+masala,Spice mix and salt,kg,1000,300,12,50,10,estimate - verify,Pantry
+gg,Ginger-garlic paste,kg,430,90,3,15,1,PBS Annex 1 Jan 2026 (garlic),Pantry
+oats,Oats,kg,600,380,13,66,7,estimate - verify,Grains & flour
+bread,Bread (slice),pc,9,80,2.7,15,1,estimate - verify,Grains & flour
+banana,Banana,pc,12.5,105,1.3,27,0.4,estimate - verify,Fruit & nuts
+apple,Apple,kg,380,52,0.3,14,0.2,estimate - verify,Fruit & nuts
+guava,Guava,kg,220,68,2.6,14,1,estimate - verify,Fruit & nuts
+dates,Dates,kg,600,280,2.5,75,0.4,estimate - verify,Fruit & nuts
+peanuts,Peanuts,kg,450,570,26,16,49,estimate - verify,Fruit & nuts
+peanut_butter,Peanut butter,kg,1200,590,25,20,50,estimate - verify,Fruit & nuts
+pasta,Pasta,kg,450,360,12,73,1.5,estimate - verify,Grains & flour
+noodles,Noodles,kg,400,380,12,75,2,estimate - verify,Grains & flour
+tortilla,Tortilla / wrap bread,pc,35,150,4,25,4,estimate - verify,Grains & flour
+cheese,Cheese,kg,1800,350,22,2,28,estimate - verify,Dairy & eggs
+soy_sauce,Soy sauce,l,400,60,8,6,0,estimate - verify,Pantry
+capsicum,Capsicum,kg,250,26,1,6,0.2,estimate - verify,Vegetables
+cabbage,Cabbage,kg,90,25,1.3,6,0.1,estimate - verify,Vegetables
+carrot,Carrots,kg,110,41,0.9,10,0.2,estimate - verify,Vegetables
+maida,Refined flour (maida),kg,190,364,10,76,1,estimate - verify,Grains & flour
+bun,Burger bun,pc,30,170,5,30,3,estimate - verify,Grains & flour
+butter,Butter,kg,1900,717,0.9,0.1,81,estimate - verify,Dairy & eggs
+cocoa,Cocoa powder,kg,1500,228,19,58,14,estimate - verify,Pantry
+yeast,Instant yeast,kg,2600,325,40,41,7,estimate - verify,Pantry
+baking_powder,Baking powder,kg,600,53,0,28,0,estimate - verify,Pantry

@@ -1,0 +1,1091 @@
+{
+ "roti": {
+  "name": "Roti",
+  "cat": "staple",
+  "serve": "1 roti (45 g flour)",
+  "k": 2,
+  "veg": 1,
+  "meals": "BLD",
+  "mx": 4,
+  "days": 7,
+  "time": 10,
+  "ing": {
+   "atta": 45
+  },
+  "steps": [
+   "Knead 45 g atta per roti with water into a soft dough and rest 10 minutes.",
+   "Roll thin and cook on a hot tawa until brown spots appear.",
+   "Puff briefly over the flame."
+  ]
+ },
+ "paratha": {
+  "name": "Paratha",
+  "cat": "staple",
+  "serve": "1 paratha (60 g flour)",
+  "k": 2,
+  "veg": 1,
+  "meals": "B",
+  "mx": 2,
+  "days": 3,
+  "time": 12,
+  "ing": {
+   "atta": 60,
+   "oil": 10
+  },
+  "steps": [
+   "Knead the dough and rest it, roll, brush with oil and fold.",
+   "Roll again and cook on a tawa, adding oil, until golden on both sides."
+  ]
+ },
+ "rice": {
+  "name": "Plain rice",
+  "cat": "staple",
+  "serve": "1 plate (70 g raw, about 200 g cooked)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 3,
+  "days": 5,
+  "time": 20,
+  "ing": {
+   "rice": 70
+  },
+  "steps": [
+   "Wash the rice until the water runs clear.",
+   "Boil with twice its volume of water, cover and cook on low for 12 to 15 minutes."
+  ]
+ },
+ "khichdi": {
+  "name": "Khichdi",
+  "cat": "staple",
+  "serve": "1 bowl (about 250 g)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 4,
+  "time": 30,
+  "ing": {
+   "rice": 45,
+   "masoor": 30,
+   "oil": 6,
+   "onion": 20,
+   "masala": 3
+  },
+  "steps": [
+   "Wash rice and masoor together.",
+   "Fry sliced onion in oil, add spices, then rice and daal with 3 cups of water.",
+   "Cook covered for 20 to 25 minutes until soft."
+  ]
+ },
+ "pulao": {
+  "name": "Vegetable pulao",
+  "cat": "staple",
+  "serve": "1 plate (about 250 g)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 3,
+  "time": 35,
+  "ing": {
+   "rice": 70,
+   "oil": 15,
+   "onion": 40,
+   "tomato": 30,
+   "masala": 5
+  },
+  "steps": [
+   "Fry sliced onion in oil until golden, add tomato and spices.",
+   "Add soaked rice and 1.5 times water, cook covered on low for 15 minutes."
+  ]
+ },
+ "bread": {
+  "name": "Bread",
+  "cat": "staple",
+  "serve": "2 slices (about 60 g)",
+  "k": 0,
+  "veg": 1,
+  "meals": "B",
+  "mx": 3,
+  "days": 4,
+  "time": 0,
+  "ing": {
+   "bread": 2
+  },
+  "steps": [
+   "Eat as it is, or toast it."
+  ]
+ },
+ "oats": {
+  "name": "Oats with milk",
+  "cat": "staple",
+  "serve": "1 bowl (50 g oats + 250 ml milk)",
+  "k": 1,
+  "veg": 1,
+  "meals": "B",
+  "mx": 1,
+  "days": 4,
+  "time": 5,
+  "ing": {
+   "oats": 50,
+   "uht_milk": 250.0
+  },
+  "steps": [
+   "Pour hot or cold milk over the oats.",
+   "Microwave for 2 minutes or leave overnight in the fridge."
+  ]
+ },
+ "daal_masoor": {
+  "name": "Daal masoor",
+  "cat": "legume",
+  "serve": "1 bowl (60 g raw, about 200 g cooked)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 4,
+  "time": 25,
+  "ing": {
+   "masoor": 60,
+   "oil": 8,
+   "onion": 25,
+   "tomato": 25,
+   "masala": 3
+  },
+  "steps": [
+   "Boil washed masoor with turmeric and salt for 15 to 20 minutes until soft.",
+   "Fry onion, tomato and spices in oil (tarka) and pour over the daal."
+  ]
+ },
+ "daal_chana": {
+  "name": "Daal chana",
+  "cat": "legume",
+  "serve": "1 bowl (60 g raw, about 200 g cooked)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 4,
+  "time": 45,
+  "ing": {
+   "chana_daal": 60,
+   "oil": 8,
+   "onion": 25,
+   "tomato": 25,
+   "masala": 3
+  },
+  "steps": [
+   "Soak the daal 30 minutes, then boil for 35 to 40 minutes until soft.",
+   "Add a tarka of fried onion, tomato and spices."
+  ]
+ },
+ "daal_mash": {
+  "name": "Daal mash",
+  "cat": "legume",
+  "serve": "1 bowl (55 g raw, about 200 g cooked)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 4,
+  "time": 40,
+  "ing": {
+   "mash": 55,
+   "oil": 10,
+   "onion": 25,
+   "gg": 8,
+   "masala": 3
+  },
+  "steps": [
+   "Boil washed mash daal for 30 minutes until soft.",
+   "Fry onion with ginger-garlic and spices, add to the daal and simmer 5 minutes."
+  ]
+ },
+ "lobia": {
+  "name": "Lobia",
+  "cat": "legume",
+  "serve": "1 bowl (60 g raw, about 200 g cooked)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 4,
+  "time": 45,
+  "ing": {
+   "lobia": 60,
+   "oil": 8,
+   "onion": 30,
+   "tomato": 30,
+   "masala": 4
+  },
+  "steps": [
+   "Soak lobia overnight.",
+   "Boil until soft, about 30 minutes.",
+   "Cook with fried onion, tomato and spices for 10 minutes."
+  ]
+ },
+ "chana_masala": {
+  "name": "Chana masala",
+  "cat": "legume",
+  "serve": "1 bowl (60 g raw, about 200 g cooked)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 4,
+  "time": 50,
+  "ing": {
+   "chana": 60,
+   "oil": 10,
+   "onion": 40,
+   "tomato": 40,
+   "masala": 5
+  },
+  "steps": [
+   "Soak chana overnight and boil 40 minutes until soft.",
+   "Fry onion, tomato and spices in oil, add chana and simmer 10 minutes."
+  ]
+ },
+ "soya": {
+  "name": "Soya chunks curry",
+  "cat": "legume",
+  "serve": "1 bowl (40 g dry chunks)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 4,
+  "time": 25,
+  "ing": {
+   "soya": 40,
+   "oil": 10,
+   "onion": 40,
+   "tomato": 40,
+   "masala": 5
+  },
+  "steps": [
+   "Soak soya chunks in hot water for 10 minutes and squeeze out the water.",
+   "Fry onion, tomato and spices, add the chunks and cook 10 minutes."
+  ]
+ },
+ "egg_boiled": {
+  "name": "Boiled egg",
+  "cat": "protein",
+  "serve": "1 egg",
+  "k": 1,
+  "veg": 1,
+  "meals": "BLD",
+  "mx": 3,
+  "days": 5,
+  "time": 12,
+  "ing": {
+   "egg": 1
+  },
+  "steps": [
+   "Place the egg in boiling water and cook for 10 minutes.",
+   "Cool in cold water and peel."
+  ]
+ },
+ "omelette": {
+  "name": "Omelette",
+  "cat": "protein",
+  "serve": "2 eggs",
+  "k": 2,
+  "veg": 1,
+  "meals": "BLD",
+  "mx": 2,
+  "days": 4,
+  "time": 8,
+  "ing": {
+   "egg": 2,
+   "oil": 8,
+   "onion": 15,
+   "tomato": 10,
+   "masala": 1
+  },
+  "steps": [
+   "Beat the eggs with chopped onion, tomato and a pinch of salt.",
+   "Cook in a little oil on a pan until set on both sides."
+  ]
+ },
+ "chicken_salan": {
+  "name": "Chicken curry",
+  "cat": "protein",
+  "serve": "1 serving (150 g chicken with bone)",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 2,
+  "days": 3,
+  "time": 40,
+  "ing": {
+   "chicken": 150,
+   "oil": 15,
+   "onion": 50,
+   "tomato": 50,
+   "gg": 8,
+   "masala": 6
+  },
+  "steps": [
+   "Fry onion in oil until golden, add ginger-garlic and spices.",
+   "Add tomato and chicken, cook covered on low for 25 to 30 minutes until tender."
+  ]
+ },
+ "chicken_breast": {
+  "name": "Pan-cooked chicken breast",
+  "cat": "protein",
+  "serve": "1 piece (120 g boneless)",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 2,
+  "days": 3,
+  "time": 20,
+  "ing": {
+   "chicken_boneless": 120,
+   "oil": 5,
+   "masala": 3
+  },
+  "steps": [
+   "Marinate with salt, pepper and spices for 15 minutes.",
+   "Cook in a pan with a little oil, 6 to 7 minutes each side."
+  ]
+ },
+ "beef_curry": {
+  "name": "Beef curry",
+  "cat": "protein",
+  "serve": "1 serving (150 g beef with bone)",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 1,
+  "days": 2,
+  "time": 90,
+  "ing": {
+   "beef": 150,
+   "oil": 15,
+   "onion": 50,
+   "tomato": 40,
+   "gg": 8,
+   "masala": 6
+  },
+  "steps": [
+   "Fry onion, ginger-garlic and spices in oil, add beef.",
+   "Pressure cook for 25 to 30 minutes, then simmer to thicken the gravy."
+  ]
+ },
+ "keema": {
+  "name": "Keema",
+  "cat": "protein",
+  "serve": "1 serving (100 g mince)",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 1,
+  "days": 2,
+  "time": 35,
+  "ing": {
+   "mince": 100,
+   "oil": 12,
+   "onion": 40,
+   "tomato": 40,
+   "gg": 8,
+   "masala": 5
+  },
+  "steps": [
+   "Fry onion and ginger-garlic in oil, add the mince and spices.",
+   "Add tomato and cook 20 to 25 minutes, stirring."
+  ]
+ },
+ "fish_fry": {
+  "name": "Fried fish",
+  "cat": "protein",
+  "serve": "1 piece (about 140 g raw)",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 1,
+  "days": 2,
+  "time": 20,
+  "ing": {
+   "fish": 140,
+   "oil": 20,
+   "masala": 5,
+   "atta": 10
+  },
+  "steps": [
+   "Marinate the fish with spices and salt for 15 minutes.",
+   "Coat lightly in flour and shallow fry 4 to 5 minutes each side."
+  ]
+ },
+ "aloo": {
+  "name": "Aloo sabzi",
+  "cat": "veg",
+  "serve": "1 bowl (150 g potato)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 4,
+  "time": 25,
+  "ing": {
+   "potato": 150,
+   "oil": 10,
+   "onion": 30,
+   "tomato": 30,
+   "masala": 4
+  },
+  "steps": [
+   "Fry onion, tomato and spices in oil.",
+   "Add cubed potato and a little water, cover and cook 15 to 20 minutes."
+  ]
+ },
+ "bhindi": {
+  "name": "Bhindi",
+  "cat": "veg",
+  "serve": "1 bowl (150 g okra)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 3,
+  "time": 20,
+  "ing": {
+   "bhindi": 150,
+   "oil": 12,
+   "onion": 30,
+   "masala": 4
+  },
+  "steps": [
+   "Wash and fully dry the okra, then cut into pieces.",
+   "Fry onion in oil, add okra and spices, cook uncovered 12 to 15 minutes."
+  ]
+ },
+ "palak": {
+  "name": "Palak",
+  "cat": "veg",
+  "serve": "1 bowl (200 g spinach)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 3,
+  "time": 20,
+  "ing": {
+   "palak": 200,
+   "oil": 10,
+   "onion": 30,
+   "gg": 5,
+   "masala": 3
+  },
+  "steps": [
+   "Boil the spinach briefly and blend or chop it.",
+   "Fry onion and ginger-garlic, add the spinach and spices, cook 10 minutes."
+  ]
+ },
+ "mixveg": {
+  "name": "Mixed vegetables",
+  "cat": "veg",
+  "serve": "1 bowl (200 g vegetables)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 4,
+  "time": 25,
+  "ing": {
+   "mixveg": 200,
+   "oil": 10,
+   "onion": 30,
+   "tomato": 30,
+   "masala": 4
+  },
+  "steps": [
+   "Fry onion, tomato and spices in oil.",
+   "Add chopped vegetables and a little water, cook covered for 15 to 20 minutes."
+  ]
+ },
+ "salad": {
+  "name": "Cucumber and tomato salad",
+  "cat": "veg",
+  "serve": "1 plate (about 210 g)",
+  "k": 0,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 2,
+  "days": 7,
+  "time": 5,
+  "ing": {
+   "cucumber": 100,
+   "tomato": 80,
+   "onion": 30
+  },
+  "steps": [
+   "Slice everything, add salt and lemon if you have it."
+  ]
+ },
+ "dahi": {
+  "name": "Yogurt (dahi)",
+  "cat": "dairy",
+  "serve": "1 small bowl (150 g)",
+  "k": 0,
+  "veg": 1,
+  "meals": "BLS",
+  "mx": 2,
+  "days": 5,
+  "time": 0,
+  "ing": {
+   "dahi": 150
+  },
+  "steps": [
+   "Eat plain, or with roti or rice."
+  ]
+ },
+ "milk": {
+  "name": "UHT milk",
+  "cat": "dairy",
+  "serve": "1 packet (250 ml)",
+  "k": 0,
+  "veg": 1,
+  "meals": "BS",
+  "mx": 2,
+  "days": 5,
+  "time": 0,
+  "ing": {
+   "uht_milk": 250
+  },
+  "steps": [
+   "Drink cold, or heat it if you have a kettle or microwave."
+  ]
+ },
+ "chai": {
+  "name": "Milk tea",
+  "cat": "drink",
+  "serve": "1 cup (100 ml milk)",
+  "k": 1,
+  "veg": 1,
+  "meals": "BS",
+  "mx": 2,
+  "days": 7,
+  "time": 5,
+  "ing": {
+   "milk": 100,
+   "tea": 2,
+   "sugar": 8
+  },
+  "steps": [
+   "Boil water with tea leaves, add milk and sugar, simmer 2 minutes and strain."
+  ]
+ },
+ "banana": {
+  "name": "Banana",
+  "cat": "fruit",
+  "serve": "1 medium",
+  "k": 0,
+  "veg": 1,
+  "meals": "BS",
+  "mx": 2,
+  "days": 5,
+  "time": 0,
+  "ing": {
+   "banana": 1
+  },
+  "steps": [
+   "Eat as it is."
+  ]
+ },
+ "apple": {
+  "name": "Apple",
+  "cat": "fruit",
+  "serve": "1 medium (150 g)",
+  "k": 0,
+  "veg": 1,
+  "meals": "S",
+  "mx": 2,
+  "days": 4,
+  "time": 0,
+  "ing": {
+   "apple": 150
+  },
+  "steps": [
+   "Wash and eat."
+  ]
+ },
+ "guava": {
+  "name": "Guava",
+  "cat": "fruit",
+  "serve": "1 medium (150 g)",
+  "k": 0,
+  "veg": 1,
+  "meals": "S",
+  "mx": 2,
+  "days": 4,
+  "time": 0,
+  "ing": {
+   "guava": 150
+  },
+  "steps": [
+   "Wash and eat."
+  ]
+ },
+ "dates": {
+  "name": "Dates",
+  "cat": "fruit",
+  "serve": "5 dates (40 g)",
+  "k": 0,
+  "veg": 1,
+  "meals": "BS",
+  "mx": 2,
+  "days": 4,
+  "time": 0,
+  "ing": {
+   "dates": 40
+  },
+  "steps": [
+   "Eat as they are."
+  ]
+ },
+ "chana_roast": {
+  "name": "Roasted chana",
+  "cat": "snack",
+  "serve": "1 handful (50 g)",
+  "k": 0,
+  "veg": 1,
+  "meals": "S",
+  "mx": 3,
+  "days": 5,
+  "time": 0,
+  "ing": {
+   "roasted_chana": 50
+  },
+  "steps": [
+   "Eat as it is."
+  ]
+ },
+ "peanuts": {
+  "name": "Peanuts",
+  "cat": "snack",
+  "serve": "1 handful (30 g)",
+  "k": 0,
+  "veg": 1,
+  "meals": "S",
+  "mx": 3,
+  "days": 5,
+  "time": 0,
+  "ing": {
+   "peanuts": 30
+  },
+  "steps": [
+   "Eat as they are."
+  ]
+ },
+ "peanut_butter": {
+  "name": "Peanut butter",
+  "cat": "snack",
+  "serve": "2 tablespoons (32 g)",
+  "k": 0,
+  "veg": 1,
+  "meals": "BS",
+  "mx": 2,
+  "days": 4,
+  "time": 0,
+  "ing": {
+   "peanut_butter": 32
+  },
+  "steps": [
+   "Spread on bread or eat from the spoon."
+  ]
+ },
+ "pasta_tomato": {
+  "name": "Tomato pasta",
+  "cat": "staple",
+  "serve": "1 plate (80 g dry pasta)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 20,
+  "ing": {
+   "pasta": 80,
+   "oil": 10,
+   "tomato": 120,
+   "onion": 30,
+   "masala": 2,
+   "cheese": 10
+  },
+  "steps": [
+   "Boil the pasta in salted water for 9 to 10 minutes and drain.",
+   "Fry onion in oil, add chopped tomato and spices and cook 10 minutes into a sauce.",
+   "Toss with the pasta and top with grated cheese."
+  ]
+ },
+ "pasta_chicken": {
+  "name": "Chicken pasta",
+  "cat": "protein",
+  "serve": "1 plate (80 g dry pasta, 80 g chicken)",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 25,
+  "ing": {
+   "pasta": 80,
+   "chicken_boneless": 80,
+   "oil": 10,
+   "tomato": 100,
+   "onion": 30,
+   "capsicum": 30,
+   "masala": 2
+  },
+  "steps": [
+   "Boil and drain the pasta.",
+   "Cook diced chicken in oil until done, add onion, capsicum and tomato and cook 8 minutes.",
+   "Mix in the pasta."
+  ]
+ },
+ "fried_rice": {
+  "name": "Egg fried rice",
+  "cat": "staple",
+  "serve": "1 plate",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 20,
+  "ing": {
+   "rice": 70,
+   "egg": 1,
+   "oil": 10,
+   "carrot": 30,
+   "cabbage": 30,
+   "onion": 20,
+   "soy_sauce": 10
+  },
+  "steps": [
+   "Cook the rice and let it cool.",
+   "Scramble the egg in hot oil, add chopped vegetables and stir-fry 3 minutes.",
+   "Add rice and soy sauce and toss on high heat for 3 minutes."
+  ]
+ },
+ "chowmein": {
+  "name": "Chicken chow mein",
+  "cat": "protein",
+  "serve": "1 plate (80 g dry noodles)",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 20,
+  "ing": {
+   "noodles": 80,
+   "chicken_boneless": 70,
+   "oil": 10,
+   "cabbage": 50,
+   "carrot": 30,
+   "capsicum": 30,
+   "soy_sauce": 12
+  },
+  "steps": [
+   "Boil the noodles, drain and rinse.",
+   "Stir-fry chicken strips, then the vegetables, on high heat.",
+   "Add noodles and soy sauce and toss for 2 minutes."
+  ]
+ },
+ "veg_stirfry": {
+  "name": "Vegetable stir-fry",
+  "cat": "veg",
+  "serve": "1 bowl",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 12,
+  "ing": {
+   "cabbage": 80,
+   "carrot": 50,
+   "capsicum": 50,
+   "onion": 30,
+   "oil": 10,
+   "soy_sauce": 10
+  },
+  "steps": [
+   "Slice the vegetables thinly.",
+   "Stir-fry in hot oil for 4 to 5 minutes and season with soy sauce."
+  ]
+ },
+ "chicken_stirfry": {
+  "name": "Chicken and vegetable stir-fry",
+  "cat": "protein",
+  "serve": "1 bowl (100 g chicken)",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 15,
+  "ing": {
+   "chicken_boneless": 100,
+   "capsicum": 50,
+   "cabbage": 60,
+   "carrot": 30,
+   "oil": 10,
+   "soy_sauce": 12
+  },
+  "steps": [
+   "Slice chicken and vegetables thinly.",
+   "Stir-fry the chicken 5 minutes, add vegetables and soy sauce, cook 4 minutes."
+  ]
+ },
+ "chicken_wrap": {
+  "name": "Chicken wrap",
+  "cat": "protein",
+  "serve": "1 wrap",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 15,
+  "ing": {
+   "tortilla": 1,
+   "chicken_boneless": 80,
+   "dahi": 30,
+   "tomato": 40,
+   "cabbage": 30,
+   "oil": 5,
+   "masala": 2
+  },
+  "steps": [
+   "Cook spiced chicken pieces in a little oil.",
+   "Mix yogurt with salt for the sauce.",
+   "Fill the tortilla with chicken, sauce, tomato and cabbage and roll."
+  ]
+ },
+ "bean_burrito": {
+  "name": "Bean burrito",
+  "cat": "legume",
+  "serve": "2 small burritos",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 25,
+  "ing": {
+   "tortilla": 2,
+   "lobia": 50,
+   "cheese": 20,
+   "tomato": 50,
+   "onion": 20,
+   "oil": 5,
+   "masala": 3
+  },
+  "steps": [
+   "Boil soaked lobia until soft and mash lightly with fried onion and spices.",
+   "Fill tortillas with beans, tomato and cheese, roll and warm in a pan."
+  ]
+ },
+ "cheese_toast": {
+  "name": "Cheese toast",
+  "cat": "dairy",
+  "serve": "2 slices",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 8,
+  "ing": {
+   "bread": 2,
+   "cheese": 25,
+   "oil": 3
+  },
+  "steps": [
+   "Top the bread with cheese.",
+   "Toast in a pan or oven until the cheese melts."
+  ]
+ },
+ "scrambled_eggs": {
+  "name": "Scrambled eggs",
+  "cat": "protein",
+  "serve": "2 eggs",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 8,
+  "ing": {
+   "egg": 2,
+   "oil": 8,
+   "tomato": 20,
+   "masala": 1
+  },
+  "steps": [
+   "Beat the eggs with salt and pepper.",
+   "Cook in a little oil on low heat, stirring, until just set."
+  ]
+ },
+ "pancakes": {
+  "name": "Pancakes",
+  "cat": "staple",
+  "serve": "2 pancakes",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 15,
+  "ing": {
+   "atta": 60,
+   "egg": 1,
+   "milk": 100,
+   "sugar": 10,
+   "oil": 8
+  },
+  "steps": [
+   "Whisk flour, egg, milk and sugar into a smooth batter.",
+   "Cook small rounds on a lightly oiled pan until golden on both sides."
+  ]
+ },
+ "shakshuka": {
+  "name": "Shakshuka (eggs in tomato sauce)",
+  "cat": "protein",
+  "serve": "1 pan (2 eggs)",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 25,
+  "ing": {
+   "egg": 2,
+   "tomato": 200,
+   "onion": 50,
+   "capsicum": 30,
+   "oil": 10,
+   "masala": 3
+  },
+  "steps": [
+   "Cook onion and capsicum in oil, add chopped tomato and spices and simmer 12 minutes.",
+   "Make two wells, crack in the eggs, cover and cook 5 minutes."
+  ]
+ },
+ "lentil_soup": {
+  "name": "Lentil soup",
+  "cat": "legume",
+  "serve": "1 bowl",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 30,
+  "ing": {
+   "masoor": 60,
+   "onion": 40,
+   "carrot": 40,
+   "oil": 8,
+   "masala": 3,
+   "tomato": 40
+  },
+  "steps": [
+   "Fry onion and carrot in oil, add masoor, tomato, spices and 3 cups water.",
+   "Simmer 20 minutes and blend roughly."
+  ]
+ },
+ "chickpea_salad": {
+  "name": "Chickpea salad",
+  "cat": "legume",
+  "serve": "1 bowl",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 45,
+  "ing": {
+   "chana": 60,
+   "cucumber": 80,
+   "tomato": 80,
+   "onion": 20,
+   "oil": 10,
+   "masala": 2
+  },
+  "steps": [
+   "Boil soaked chana until soft (about 40 minutes) and cool.",
+   "Mix with chopped vegetables, oil and spices."
+  ]
+ },
+ "shawarma_plate": {
+  "name": "Chicken shawarma plate",
+  "cat": "protein",
+  "serve": "1 plate",
+  "k": 2,
+  "veg": 0,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 30,
+  "ing": {
+   "chicken_boneless": 120,
+   "rice": 60,
+   "dahi": 40,
+   "cucumber": 50,
+   "tomato": 50,
+   "oil": 8,
+   "masala": 5
+  },
+  "steps": [
+   "Marinate chicken in yogurt and spices, then pan-cook with oil.",
+   "Serve over rice with cucumber, tomato and yogurt sauce."
+  ]
+ },
+ "mashed_potato": {
+  "name": "Mashed potato",
+  "cat": "veg",
+  "serve": "1 bowl",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 25,
+  "ing": {
+   "potato": 200,
+   "milk": 50,
+   "oil": 8
+  },
+  "steps": [
+   "Boil peeled potatoes until soft.",
+   "Mash with warm milk and oil."
+  ]
+ },
+ "tomato_soup": {
+  "name": "Tomato soup",
+  "cat": "veg",
+  "serve": "1 bowl",
+  "k": 2,
+  "veg": 1,
+  "meals": "LD",
+  "mx": 1,
+  "days": 7,
+  "time": 20,
+  "ing": {
+   "tomato": 250,
+   "onion": 30,
+   "oil": 6,
+   "masala": 2
+  },
+  "steps": [
+   "Cook onion in oil, add chopped tomato and 1 cup water.",
+   "Simmer 15 minutes, blend and season."
+  ]
+ }
+}

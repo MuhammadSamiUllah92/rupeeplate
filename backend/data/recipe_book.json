@@ -1,0 +1,1151 @@
+[
+ {
+  "id": "r_chicken_karahi",
+  "name": "Chicken karahi",
+  "group": "cuisine",
+  "cuisine": "punjabi",
+  "serves": 4,
+  "time": 45,
+  "level": "Medium",
+  "ing": {
+   "chicken": 800,
+   "tomato": 500,
+   "oil": 80,
+   "gg": 30,
+   "masala": 25
+  },
+  "steps": [
+   "Heat the oil in a wok (karahi) and fry the ginger-garlic paste for one minute.",
+   "Add the chicken and cook on high heat until the colour changes.",
+   "Add chopped tomatoes and the spice mix, cover and cook on medium heat until the oil separates.",
+   "Cook uncovered for a few minutes until the gravy is thick, then serve with roti."
+  ],
+  "photo": "chicken karahi",
+  "art": [
+   "#8a3b1e",
+   "#d9822b",
+   "#3d7a3a"
+  ]
+ },
+ {
+  "id": "r_aloo_palak",
+  "name": "Aloo palak (potato and spinach)",
+  "group": "cuisine",
+  "cuisine": "punjabi",
+  "serves": 4,
+  "time": 35,
+  "level": "Easy",
+  "ing": {
+   "potato": 500,
+   "palak": 500,
+   "onion": 150,
+   "tomato": 200,
+   "oil": 60,
+   "gg": 20,
+   "masala": 15
+  },
+  "steps": [
+   "Chop the onion and fry it in oil until golden, then add the ginger-garlic paste.",
+   "Add tomatoes and spices and cook until soft.",
+   "Add cubed potatoes with a little water and cook covered until nearly tender.",
+   "Add the chopped spinach and cook for five minutes until the water dries."
+  ],
+  "photo": "aloo palak",
+  "art": [
+   "#3b6b2f",
+   "#d8b04a",
+   "#b24a2a"
+  ]
+ },
+ {
+  "id": "r_sindhi_biryani",
+  "name": "Sindhi chicken biryani",
+  "group": "cuisine",
+  "cuisine": "sindhi",
+  "serves": 5,
+  "time": 80,
+  "level": "Hard",
+  "ing": {
+   "rice": 500,
+   "chicken": 700,
+   "dahi": 200,
+   "potato": 300,
+   "tomato": 300,
+   "onion": 300,
+   "oil": 100,
+   "gg": 40,
+   "masala": 35
+  },
+  "steps": [
+   "Fry sliced onion in oil until brown, then add the chicken and ginger-garlic paste.",
+   "Add tomatoes, yogurt, spices and the potatoes and cook until the chicken is tender and the gravy is thick.",
+   "Boil the rice until three-quarters done and drain.",
+   "Layer rice over the chicken gravy, cover tightly and steam on low heat for 20 minutes."
+  ],
+  "photo": "sindhi biryani",
+  "art": [
+   "#e0b04a",
+   "#9a4a1e",
+   "#f2e8c8"
+  ]
+ },
+ {
+  "id": "r_masala_fish",
+  "name": "Sindhi masala fish fry",
+  "group": "cuisine",
+  "cuisine": "sindhi",
+  "serves": 4,
+  "time": 35,
+  "level": "Medium",
+  "ing": {
+   "fish": 800,
+   "atta": 30,
+   "masala": 25,
+   "gg": 20,
+   "oil": 100
+  },
+  "steps": [
+   "Mix the ginger-garlic paste and the spices into a thick coating and rub it on the fish.",
+   "Dust the fish lightly with flour.",
+   "Shallow fry in hot oil for four to five minutes each side until crisp and cooked through.",
+   "Serve with lemon, salad and roti."
+  ],
+  "photo": "fried fish masala",
+  "art": [
+   "#c9792e",
+   "#8a4a1c",
+   "#7aa05a"
+  ]
+ },
+ {
+  "id": "r_chapli_kabab",
+  "name": "Chapli kabab",
+  "group": "cuisine",
+  "cuisine": "pashtun",
+  "serves": 4,
+  "time": 40,
+  "level": "Medium",
+  "ing": {
+   "mince": 600,
+   "onion": 150,
+   "tomato": 150,
+   "egg": 1,
+   "atta": 30,
+   "masala": 20,
+   "oil": 100
+  },
+  "steps": [
+   "Mix the mince with chopped onion, tomato, spices, the egg and flour until well combined.",
+   "Rest the mixture for 15 minutes, then shape into flat round patties.",
+   "Shallow fry in hot oil for four minutes each side until crisp at the edges.",
+   "Serve hot with naan and yogurt."
+  ],
+  "photo": "chapli kabab",
+  "art": [
+   "#6a3a1e",
+   "#a85a2a",
+   "#c9a85a"
+  ]
+ },
+ {
+  "id": "r_kabuli_pulao",
+  "name": "Kabuli pulao",
+  "group": "cuisine",
+  "cuisine": "pashtun",
+  "serves": 5,
+  "time": 90,
+  "level": "Hard",
+  "ing": {
+   "rice": 500,
+   "beef": 500,
+   "onion": 150,
+   "carrot": 250,
+   "oil": 100,
+   "dates": 60,
+   "masala": 20
+  },
+  "steps": [
+   "Boil the beef with onion and spices until tender and keep the stock.",
+   "Fry thin carrot sticks in a little oil with the chopped dates until lightly caramelised.",
+   "Fry sliced onion until brown, add the soaked rice and the beef stock and cook until the water is absorbed.",
+   "Cover and steam on low heat for 20 minutes and top with the carrots and dates."
+  ],
+  "photo": "kabuli pulao",
+  "art": [
+   "#d9a64a",
+   "#d97a2a",
+   "#7a3a1e"
+  ]
+ },
+ {
+  "id": "r_daal_chawal",
+  "name": "Daal tadka with rice",
+  "group": "cuisine",
+  "cuisine": "desi",
+  "serves": 4,
+  "time": 40,
+  "level": "Easy",
+  "ing": {
+   "masoor": 250,
+   "rice": 300,
+   "onion": 100,
+   "tomato": 150,
+   "oil": 40,
+   "gg": 20,
+   "masala": 15
+  },
+  "steps": [
+   "Boil the washed daal until soft and mash lightly.",
+   "Boil the rice separately until fluffy.",
+   "Fry onion, ginger-garlic paste and tomato in oil with spices to make the tadka.",
+   "Pour the tadka over the daal and serve with the rice."
+  ],
+  "photo": "daal chawal",
+  "art": [
+   "#d9b24a",
+   "#f2eadb",
+   "#b24a2a"
+  ]
+ },
+ {
+  "id": "r_aloo_keema",
+  "name": "Aloo keema",
+  "group": "cuisine",
+  "cuisine": "desi",
+  "serves": 4,
+  "time": 50,
+  "level": "Easy",
+  "ing": {
+   "mince": 500,
+   "potato": 400,
+   "onion": 150,
+   "tomato": 200,
+   "oil": 70,
+   "gg": 25,
+   "masala": 20
+  },
+  "steps": [
+   "Fry chopped onion in oil until golden and add the ginger-garlic paste.",
+   "Add the mince and cook on high heat until it changes colour.",
+   "Add tomatoes and spices and cook until the oil separates.",
+   "Add cubed potatoes with a little water, cover and cook until the potatoes are tender."
+  ],
+  "photo": "aloo keema",
+  "art": [
+   "#7a3a1e",
+   "#c98a3a",
+   "#e8c86a"
+  ]
+ },
+ {
+  "id": "r_chana_chaat",
+  "name": "Chana chaat",
+  "group": "cuisine",
+  "cuisine": "desi",
+  "serves": 3,
+  "time": 45,
+  "level": "Easy",
+  "ing": {
+   "chana": 300,
+   "onion": 100,
+   "tomato": 150,
+   "cucumber": 100,
+   "masala": 10
+  },
+  "steps": [
+   "Soak the chana overnight and boil until soft.",
+   "Let the chana cool, then mix with chopped onion, tomato and cucumber.",
+   "Season with the spice mix and serve cold."
+  ],
+  "photo": "chana chaat",
+  "art": [
+   "#c9a05a",
+   "#b24a2a",
+   "#7aa05a"
+  ]
+ },
+ {
+  "id": "r_chow_mein",
+  "name": "Chicken chow mein",
+  "group": "cuisine",
+  "cuisine": "chinese",
+  "serves": 4,
+  "time": 30,
+  "level": "Easy",
+  "ing": {
+   "noodles": 300,
+   "chicken_boneless": 300,
+   "cabbage": 200,
+   "carrot": 100,
+   "capsicum": 100,
+   "soy_sauce": 40,
+   "oil": 40,
+   "gg": 15
+  },
+  "steps": [
+   "Boil the noodles until just soft, drain and toss with a little oil.",
+   "Stir-fry the chicken pieces with the ginger-garlic paste on high heat until cooked.",
+   "Add the shredded vegetables and stir-fry for two minutes so they stay crunchy.",
+   "Add the noodles and soy sauce and toss until everything is hot and coated."
+  ],
+  "photo": "chicken chow mein",
+  "art": [
+   "#c9803a",
+   "#7aa03a",
+   "#d9d04a"
+  ]
+ },
+ {
+  "id": "r_egg_fried_rice",
+  "name": "Egg fried rice",
+  "group": "cuisine",
+  "cuisine": "chinese",
+  "serves": 4,
+  "time": 25,
+  "level": "Easy",
+  "ing": {
+   "rice": 300,
+   "egg": 4,
+   "carrot": 100,
+   "cabbage": 100,
+   "soy_sauce": 30,
+   "oil": 40
+  },
+  "steps": [
+   "Boil the rice, spread it out and let it cool so the grains stay separate.",
+   "Scramble the eggs in a hot wok with a little oil and set aside.",
+   "Stir-fry the chopped vegetables for two minutes.",
+   "Add the rice, eggs and soy sauce and toss on high heat for three minutes."
+  ],
+  "photo": "egg fried rice",
+  "art": [
+   "#f0dca0",
+   "#e0a030",
+   "#6a9a3a"
+  ]
+ },
+ {
+  "id": "r_pasta_arrabbiata",
+  "name": "Pasta arrabbiata",
+  "group": "cuisine",
+  "cuisine": "italian",
+  "serves": 4,
+  "time": 30,
+  "level": "Easy",
+  "ing": {
+   "pasta": 300,
+   "tomato": 500,
+   "onion": 100,
+   "oil": 40,
+   "gg": 10,
+   "masala": 8,
+   "cheese": 40
+  },
+  "steps": [
+   "Boil the pasta in salted water until just soft and drain.",
+   "Fry the onion and ginger-garlic paste in oil, add chopped tomatoes and the chilli spice mix.",
+   "Simmer the sauce for 15 minutes until thick.",
+   "Toss the pasta in the sauce and top with grated cheese."
+  ],
+  "photo": "pasta arrabbiata",
+  "art": [
+   "#c0452a",
+   "#f0e0b0",
+   "#e8c860"
+  ]
+ },
+ {
+  "id": "r_pasta_bake",
+  "name": "Chicken pasta bake",
+  "group": "cuisine",
+  "cuisine": "italian",
+  "serves": 4,
+  "time": 50,
+  "level": "Medium",
+  "ing": {
+   "pasta": 300,
+   "chicken_boneless": 300,
+   "cheese": 120,
+   "tomato": 300,
+   "milk": 200,
+   "oil": 30,
+   "masala": 8
+  },
+  "steps": [
+   "Boil the pasta until almost soft and cook the diced chicken in oil with spices.",
+   "Mix the pasta, chicken, chopped tomato and milk in a baking dish.",
+   "Cover with grated cheese.",
+   "Bake in a hot oven (200 °C) for 20 minutes until the top is golden."
+  ],
+  "photo": "chicken pasta bake",
+  "art": [
+   "#e8c060",
+   "#d9902a",
+   "#c0452a"
+  ]
+ },
+ {
+  "id": "r_grilled_chicken_wedges",
+  "name": "Grilled chicken with potato wedges",
+  "group": "cuisine",
+  "cuisine": "western",
+  "serves": 4,
+  "time": 45,
+  "level": "Easy",
+  "ing": {
+   "chicken_boneless": 500,
+   "potato": 600,
+   "oil": 60,
+   "masala": 15
+  },
+  "steps": [
+   "Mix the chicken with half the oil and spices and rest for 15 minutes.",
+   "Cut the potatoes into wedges and toss with the remaining oil and spices.",
+   "Grill or bake the chicken and potatoes at 200 °C for about 25 minutes, turning once.",
+   "Serve hot with salad."
+  ],
+  "photo": "grilled chicken potato wedges",
+  "art": [
+   "#c9803a",
+   "#e8c070",
+   "#6a9a3a"
+  ]
+ },
+ {
+  "id": "r_omelette_sandwich",
+  "name": "Cheese omelette sandwich",
+  "group": "cuisine",
+  "cuisine": "western",
+  "serves": 2,
+  "time": 15,
+  "level": "Easy",
+  "ing": {
+   "egg": 4,
+   "bread": 8,
+   "cheese": 40,
+   "tomato": 100,
+   "oil": 15
+  },
+  "steps": [
+   "Beat the eggs with a pinch of salt and cook as a thin omelette in the oil.",
+   "Sprinkle the cheese on the hot omelette and fold.",
+   "Layer the omelette and tomato slices between toasted bread and cut in halves."
+  ],
+  "photo": "omelette sandwich",
+  "art": [
+   "#f0c84a",
+   "#d9a860",
+   "#c0452a"
+  ]
+ },
+ {
+  "id": "r_burrito_wraps",
+  "name": "Chicken and bean burrito wraps",
+  "group": "cuisine",
+  "cuisine": "mexican",
+  "serves": 4,
+  "time": 40,
+  "level": "Medium",
+  "ing": {
+   "tortilla": 4,
+   "chicken_boneless": 300,
+   "rice": 150,
+   "lobia": 100,
+   "tomato": 200,
+   "onion": 80,
+   "cheese": 60,
+   "capsicum": 80,
+   "oil": 30,
+   "masala": 10
+  },
+  "steps": [
+   "Boil the lobia and the rice separately until soft.",
+   "Cook the diced chicken with onion, capsicum and spices in oil.",
+   "Mix in the chopped tomato, rice and beans.",
+   "Fill each tortilla, add cheese, roll tightly and warm on a pan for two minutes."
+  ],
+  "photo": "burrito",
+  "art": [
+   "#c9a05a",
+   "#b24a2a",
+   "#7aa03a"
+  ]
+ },
+ {
+  "id": "r_bean_quesadilla",
+  "name": "Bean and cheese quesadilla",
+  "group": "cuisine",
+  "cuisine": "mexican",
+  "serves": 4,
+  "time": 30,
+  "level": "Easy",
+  "ing": {
+   "tortilla": 4,
+   "lobia": 150,
+   "cheese": 120,
+   "capsicum": 80,
+   "onion": 60,
+   "oil": 20
+  },
+  "steps": [
+   "Boil the lobia until soft and mash them roughly.",
+   "Spread the beans, chopped capsicum, onion and cheese over half of each tortilla and fold.",
+   "Cook in a little oil for two minutes each side until the cheese melts."
+  ],
+  "photo": "quesadilla",
+  "art": [
+   "#e8b84a",
+   "#c9803a",
+   "#7aa03a"
+  ]
+ },
+ {
+  "id": "r_hummus_bread",
+  "name": "Hummus with bread",
+  "group": "cuisine",
+  "cuisine": "mideast",
+  "serves": 4,
+  "time": 40,
+  "level": "Easy",
+  "ing": {
+   "chana": 200,
+   "oil": 50,
+   "gg": 10,
+   "masala": 5,
+   "peanut_butter": 50,
+   "bread": 8
+  },
+  "steps": [
+   "Soak the chana overnight and boil until very soft.",
+   "Blend the chana with the oil, ginger-garlic paste, spices and peanut butter (used instead of tahini) and a little of the cooking water until smooth.",
+   "Serve with toasted bread."
+  ],
+  "photo": "hummus pita",
+  "art": [
+   "#e8d09a",
+   "#c9a05a",
+   "#7a9a3a"
+  ]
+ },
+ {
+  "id": "r_chicken_kebab_rice",
+  "name": "Chicken kebab with rice",
+  "group": "cuisine",
+  "cuisine": "mideast",
+  "serves": 4,
+  "time": 50,
+  "level": "Medium",
+  "ing": {
+   "chicken_boneless": 500,
+   "dahi": 100,
+   "rice": 300,
+   "onion": 100,
+   "gg": 20,
+   "masala": 15,
+   "oil": 40
+  },
+  "steps": [
+   "Marinate the chicken pieces in yogurt, ginger-garlic paste and spices for at least 30 minutes.",
+   "Thread on skewers and grill or pan-cook, turning, until cooked through.",
+   "Boil the rice with the fried onion.",
+   "Serve the kebabs on the rice."
+  ],
+  "photo": "chicken kebab rice",
+  "art": [
+   "#c0602a",
+   "#f2e8c8",
+   "#7aa03a"
+  ]
+ },
+ {
+  "id": "r_chicken_salad",
+  "name": "Grilled chicken salad",
+  "group": "cuisine",
+  "cuisine": "light",
+  "serves": 3,
+  "time": 25,
+  "level": "Easy",
+  "ing": {
+   "chicken_boneless": 400,
+   "cucumber": 250,
+   "tomato": 250,
+   "cabbage": 150,
+   "carrot": 100,
+   "dahi": 100,
+   "masala": 8,
+   "oil": 20
+  },
+  "steps": [
+   "Season the chicken with spices and cook it with the oil on a hot pan until done, then slice.",
+   "Chop the cucumber, tomato, cabbage and carrot.",
+   "Mix the yogurt with a pinch of spice as a dressing.",
+   "Top the vegetables with the chicken and dressing."
+  ],
+  "photo": "grilled chicken salad",
+  "art": [
+   "#7aa03a",
+   "#c0452a",
+   "#e8d0a0"
+  ]
+ },
+ {
+  "id": "r_daal_soup",
+  "name": "Vegetable daal soup",
+  "group": "cuisine",
+  "cuisine": "light",
+  "serves": 4,
+  "time": 35,
+  "level": "Easy",
+  "ing": {
+   "masoor": 150,
+   "carrot": 150,
+   "tomato": 150,
+   "onion": 80,
+   "palak": 100,
+   "oil": 15,
+   "masala": 10
+  },
+  "steps": [
+   "Fry the onion lightly in the oil.",
+   "Add the washed daal, carrot, tomato and spices with plenty of water.",
+   "Cook until everything is soft, add the spinach for the last five minutes.",
+   "Blend lightly or leave chunky and serve hot."
+  ],
+  "photo": "lentil soup",
+  "art": [
+   "#d9a040",
+   "#c0602a",
+   "#6a9a3a"
+  ]
+ },
+ {
+  "id": "r_oats_banana",
+  "name": "Oats and banana bowl",
+  "group": "cuisine",
+  "cuisine": "light",
+  "serves": 3,
+  "time": 10,
+  "level": "Easy",
+  "ing": {
+   "oats": 120,
+   "milk": 500,
+   "banana": 3,
+   "dates": 40,
+   "peanuts": 30
+  },
+  "steps": [
+   "Heat the milk and cook the oats in it for five minutes, stirring.",
+   "Pour into bowls and top with sliced banana, chopped dates and peanuts."
+  ],
+  "photo": "oatmeal banana",
+  "art": [
+   "#e8d0a0",
+   "#f0d860",
+   "#8a5a2a"
+  ]
+ },
+ {
+  "id": "r_zinger_burger",
+  "name": "Crispy chicken burger",
+  "group": "fastfood",
+  "cuisine": null,
+  "serves": 4,
+  "time": 35,
+  "level": "Medium",
+  "ing": {
+   "bun": 4,
+   "chicken_boneless": 400,
+   "maida": 80,
+   "egg": 1,
+   "oil": 120,
+   "cheese": 60,
+   "tomato": 100,
+   "cabbage": 60,
+   "masala": 8
+  },
+  "steps": [
+   "Cut the chicken into flat fillets and season with spices.",
+   "Dip in beaten egg, then coat in flour and spices.",
+   "Fry in hot oil for about five minutes until golden and cooked through.",
+   "Toast the buns, add cabbage, tomato, cheese and the chicken."
+  ],
+  "photo": "fried chicken burger",
+  "art": [
+   "#c9803a",
+   "#e8c070",
+   "#7aa03a"
+  ]
+ },
+ {
+  "id": "r_home_pizza",
+  "name": "Chicken pizza",
+  "group": "fastfood",
+  "cuisine": null,
+  "serves": 4,
+  "time": 75,
+  "level": "Hard",
+  "ing": {
+   "maida": 400,
+   "yeast": 5,
+   "sugar": 5,
+   "oil": 40,
+   "chicken_boneless": 250,
+   "cheese": 200,
+   "tomato": 250,
+   "capsicum": 80,
+   "onion": 60,
+   "masala": 8
+  },
+  "steps": [
+   "Mix the flour, yeast, sugar, oil and warm water into a soft dough, knead and let it rise for 45 minutes.",
+   "Cook the tomatoes with spices into a thick sauce and cook the diced chicken separately.",
+   "Roll out the dough, spread the sauce and top with chicken, capsicum, onion and cheese.",
+   "Bake at 220 °C for 15 minutes until the cheese is golden."
+  ],
+  "photo": "chicken pizza",
+  "art": [
+   "#c9502a",
+   "#e8c860",
+   "#7aa03a"
+  ]
+ },
+ {
+  "id": "r_crispy_fries",
+  "name": "Crispy fries",
+  "group": "fastfood",
+  "cuisine": null,
+  "serves": 4,
+  "time": 30,
+  "level": "Easy",
+  "ing": {
+   "potato": 800,
+   "oil": 60,
+   "masala": 8
+  },
+  "steps": [
+   "Cut the potatoes into thin sticks, rinse and dry well.",
+   "Toss with the oil and spices.",
+   "Bake or air-fry at 200 °C for 25 minutes, turning once, until crisp."
+  ],
+  "photo": "french fries",
+  "art": [
+   "#e8c050",
+   "#d9a030",
+   "#c0452a"
+  ]
+ },
+ {
+  "id": "r_paratha_roll",
+  "name": "Chicken paratha roll",
+  "group": "fastfood",
+  "cuisine": null,
+  "serves": 4,
+  "time": 45,
+  "level": "Medium",
+  "ing": {
+   "atta": 300,
+   "oil": 80,
+   "chicken_boneless": 400,
+   "dahi": 100,
+   "gg": 20,
+   "masala": 15,
+   "onion": 100,
+   "tomato": 100
+  },
+  "steps": [
+   "Knead the flour into dough and make thin parathas on a hot pan with a little oil.",
+   "Marinate the chicken in yogurt, ginger-garlic paste and spices, then cook until done.",
+   "Place chicken, sliced onion and tomato on each paratha and roll tightly."
+  ],
+  "photo": "chicken paratha roll",
+  "art": [
+   "#d9a050",
+   "#b24a2a",
+   "#e8e0c0"
+  ]
+ },
+ {
+  "id": "r_nuggets",
+  "name": "Homemade chicken nuggets",
+  "group": "fastfood",
+  "cuisine": null,
+  "serves": 4,
+  "time": 40,
+  "level": "Medium",
+  "ing": {
+   "chicken_boneless": 500,
+   "maida": 100,
+   "egg": 1,
+   "bread": 4,
+   "oil": 150,
+   "masala": 10
+  },
+  "steps": [
+   "Mince the chicken with the spices and shape into small pieces.",
+   "Dip in beaten egg and then in flour mixed with bread crumbs (dried bread, crushed).",
+   "Fry in hot oil for four minutes until golden or bake until crisp."
+  ],
+  "photo": "chicken nuggets",
+  "art": [
+   "#d9a040",
+   "#e8c070",
+   "#b24a2a"
+  ]
+ },
+ {
+  "id": "r_shawarma_wraps",
+  "name": "Chicken shawarma wraps",
+  "group": "fastfood",
+  "cuisine": null,
+  "serves": 4,
+  "time": 40,
+  "level": "Medium",
+  "ing": {
+   "tortilla": 4,
+   "chicken_boneless": 500,
+   "dahi": 120,
+   "gg": 20,
+   "masala": 15,
+   "cucumber": 100,
+   "tomato": 100,
+   "cabbage": 80,
+   "oil": 30
+  },
+  "steps": [
+   "Marinate the sliced chicken in half the yogurt, ginger-garlic paste and spices for 30 minutes.",
+   "Cook the chicken in oil on a hot pan until browned.",
+   "Mix the remaining yogurt into a sauce.",
+   "Fill each tortilla with chicken, vegetables and sauce and roll tightly."
+  ],
+  "photo": "chicken shawarma",
+  "art": [
+   "#c98a3a",
+   "#e8d0a0",
+   "#7aa03a"
+  ]
+ },
+ {
+  "id": "r_aloo_samosa",
+  "name": "Aloo samosa",
+  "group": "fastfood",
+  "cuisine": null,
+  "serves": 6,
+  "time": 60,
+  "level": "Hard",
+  "ing": {
+   "maida": 250,
+   "potato": 400,
+   "oil": 200,
+   "masala": 15,
+   "onion": 60
+  },
+  "steps": [
+   "Make a firm dough from the flour, a little oil and water and rest it for 20 minutes.",
+   "Boil and mash the potatoes and mix with chopped onion and spices.",
+   "Roll the dough, cut into half circles, form cones, fill and seal.",
+   "Fry in medium-hot oil until golden and crisp."
+  ],
+  "photo": "samosa",
+  "art": [
+   "#d9a040",
+   "#b8782a",
+   "#7aa03a"
+  ]
+ },
+ {
+  "id": "r_burger_buns",
+  "name": "Soft burger buns",
+  "group": "baked",
+  "cuisine": null,
+  "serves": 8,
+  "time": 120,
+  "level": "Hard",
+  "ing": {
+   "maida": 500,
+   "yeast": 7,
+   "sugar": 30,
+   "milk": 250,
+   "butter": 40,
+   "egg": 1
+  },
+  "steps": [
+   "Warm the milk and mix with the yeast and sugar and wait for it to foam.",
+   "Mix with the flour, butter and half the egg into a soft dough and knead for ten minutes.",
+   "Let it rise for an hour, shape into balls and rise again for 30 minutes.",
+   "Brush with the remaining egg and bake at 190 °C for 15 minutes."
+  ],
+  "photo": "burger buns",
+  "art": [
+   "#d9a050",
+   "#e8c080",
+   "#b8782a"
+  ]
+ },
+ {
+  "id": "r_sponge_cake",
+  "name": "Vanilla sponge cake",
+  "group": "baked",
+  "cuisine": null,
+  "serves": 8,
+  "time": 55,
+  "level": "Medium",
+  "ing": {
+   "maida": 200,
+   "sugar": 150,
+   "egg": 3,
+   "butter": 100,
+   "milk": 100,
+   "baking_powder": 8
+  },
+  "steps": [
+   "Beat the butter and sugar until pale, then beat in the eggs one at a time.",
+   "Fold in the flour and baking powder with the milk.",
+   "Pour into a greased tin and bake at 180 °C for 35 minutes until a toothpick comes out clean."
+  ],
+  "photo": "sponge cake",
+  "art": [
+   "#f0d890",
+   "#e8b860",
+   "#fff4d0"
+  ]
+ },
+ {
+  "id": "r_choc_cookies",
+  "name": "Chocolate cookies",
+  "group": "baked",
+  "cuisine": null,
+  "serves": 12,
+  "time": 30,
+  "level": "Easy",
+  "ing": {
+   "maida": 220,
+   "cocoa": 30,
+   "butter": 125,
+   "sugar": 110,
+   "egg": 1,
+   "baking_powder": 3
+  },
+  "steps": [
+   "Cream the butter and sugar, then mix in the egg.",
+   "Add the flour, cocoa and baking powder and mix into a dough.",
+   "Shape into small balls, flatten on a tray and bake at 180 °C for 12 minutes."
+  ],
+  "photo": "chocolate cookies",
+  "art": [
+   "#4a2a1a",
+   "#7a4a2a",
+   "#c9a070"
+  ]
+ },
+ {
+  "id": "r_brownies",
+  "name": "Chocolate brownies",
+  "group": "baked",
+  "cuisine": null,
+  "serves": 9,
+  "time": 40,
+  "level": "Easy",
+  "ing": {
+   "maida": 100,
+   "cocoa": 40,
+   "butter": 120,
+   "sugar": 180,
+   "egg": 3
+  },
+  "steps": [
+   "Melt the butter and mix in the sugar and cocoa.",
+   "Beat in the eggs, then fold in the flour.",
+   "Pour into a lined tin and bake at 180 °C for 25 minutes. The centre should stay slightly soft."
+  ],
+  "photo": "chocolate brownies",
+  "art": [
+   "#3a1e12",
+   "#5a3220",
+   "#8a5a3a"
+  ]
+ },
+ {
+  "id": "r_banana_bread",
+  "name": "Banana bread (whole wheat)",
+  "group": "baked",
+  "cuisine": null,
+  "serves": 8,
+  "time": 55,
+  "level": "Easy",
+  "ing": {
+   "atta": 200,
+   "banana": 3,
+   "egg": 2,
+   "sugar": 60,
+   "oil": 60,
+   "baking_powder": 8
+  },
+  "steps": [
+   "Mash the bananas and mix with the sugar, oil and eggs.",
+   "Fold in the flour and baking powder.",
+   "Pour into a greased loaf tin and bake at 180 °C for 40 minutes."
+  ],
+  "photo": "banana bread",
+  "art": [
+   "#c9904a",
+   "#e8c080",
+   "#8a5a2a"
+  ]
+ },
+ {
+  "id": "r_garlic_bread",
+  "name": "Cheesy garlic bread",
+  "group": "baked",
+  "cuisine": null,
+  "serves": 4,
+  "time": 15,
+  "level": "Easy",
+  "ing": {
+   "bread": 8,
+   "butter": 40,
+   "cheese": 120,
+   "gg": 10
+  },
+  "steps": [
+   "Mix the soft butter with the ginger-garlic paste and spread on the bread.",
+   "Top with grated cheese.",
+   "Bake or toast at 200 °C for eight minutes until the cheese melts."
+  ],
+  "photo": "garlic bread",
+  "art": [
+   "#e8c060",
+   "#f0e0a0",
+   "#7aa03a"
+  ]
+ },
+ {
+  "id": "r_gajar_halwa",
+  "name": "Gajar ka halwa",
+  "group": "sweet",
+  "cuisine": null,
+  "serves": 6,
+  "time": 80,
+  "level": "Medium",
+  "ing": {
+   "carrot": 1000,
+   "milk": 1000,
+   "sugar": 200,
+   "butter": 60
+  },
+  "steps": [
+   "Grate the carrots.",
+   "Cook the carrots with the milk on medium heat, stirring, until the milk dries.",
+   "Add the sugar and butter and stir for ten more minutes until glossy."
+  ],
+  "photo": "gajar halwa",
+  "art": [
+   "#d9602a",
+   "#e8903a",
+   "#f0d8a0"
+  ]
+ },
+ {
+  "id": "r_atta_halwa",
+  "name": "Atta halwa",
+  "group": "sweet",
+  "cuisine": null,
+  "serves": 6,
+  "time": 25,
+  "level": "Easy",
+  "ing": {
+   "atta": 200,
+   "oil": 120,
+   "sugar": 180,
+   "peanuts": 30
+  },
+  "steps": [
+   "Roast the flour in the oil on low heat, stirring, until it turns golden brown and smells nutty.",
+   "Boil the sugar in water and pour in carefully, stirring.",
+   "Cook until it thickens and leaves the sides, then top with crushed peanuts."
+  ],
+  "photo": "atta halwa",
+  "art": [
+   "#a8682a",
+   "#d9a050",
+   "#e8c080"
+  ]
+ },
+ {
+  "id": "r_rice_kheer",
+  "name": "Rice kheer",
+  "group": "sweet",
+  "cuisine": null,
+  "serves": 5,
+  "time": 60,
+  "level": "Easy",
+  "ing": {
+   "rice": 100,
+   "milk": 1000,
+   "sugar": 120,
+   "dates": 30,
+   "peanuts": 30
+  },
+  "steps": [
+   "Wash the rice and cook it in the milk on low heat, stirring often, until very soft and creamy.",
+   "Add the sugar and chopped dates and cook for ten more minutes.",
+   "Serve warm or chilled with crushed peanuts."
+  ],
+  "photo": "rice kheer",
+  "art": [
+   "#f2e8d0",
+   "#e8d8a8",
+   "#b8782a"
+  ]
+ },
+ {
+  "id": "r_zarda",
+  "name": "Zarda (sweet rice)",
+  "group": "sweet",
+  "cuisine": null,
+  "serves": 5,
+  "time": 45,
+  "level": "Medium",
+  "ing": {
+   "rice": 300,
+   "sugar": 200,
+   "oil": 100,
+   "dates": 40
+  },
+  "steps": [
+   "Boil the rice until about three-quarters done and drain.",
+   "Make a sugar syrup and add the oil and chopped dates.",
+   "Layer the rice with the syrup, cover and steam on low heat for 15 minutes."
+  ],
+  "photo": "zarda",
+  "art": [
+   "#e8c030",
+   "#e89030",
+   "#f0e0a0"
+  ]
+ },
+ {
+  "id": "r_date_balls",
+  "name": "Date and peanut butter energy balls",
+  "group": "sweet",
+  "cuisine": null,
+  "serves": 8,
+  "time": 15,
+  "level": "Easy",
+  "ing": {
+   "dates": 200,
+   "peanut_butter": 60,
+   "oats": 60
+  },
+  "steps": [
+   "Blend the dates into a sticky paste.",
+   "Mix in the peanut butter and oats.",
+   "Roll into small balls and chill for 30 minutes."
+  ],
+  "photo": "date energy balls",
+  "art": [
+   "#6a3a1e",
+   "#a87a4a",
+   "#d9c090"
+  ]
+ }
+]

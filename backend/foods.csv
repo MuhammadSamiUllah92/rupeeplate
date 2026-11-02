@@ -1,0 +1,36 @@
+id,name,category,serving,kcal,protein_g,carbs_g,fat_g,price_pkr,kitchen,veg,meals,max_per_meal,max_days,source
+roti,Roti (1 piece),staple,1 piece (40 g flour),120,3.5,22,2,20,2,1,BLD,4,7,approximate - verify
+paratha,Paratha (1),staple,1 piece,260,5,30,13,70,2,1,B,2,3,approximate - verify
+rice,Plain rice,staple,1 cup cooked,205,4.3,45,0.4,30,2,1,LD,3,5,approximate - verify
+khichdi,Khichdi,staple,1 cup,250,9,45,3,45,2,1,LD,2,4,approximate - verify
+pulao,Pulao,staple,1 cup,300,8,45,10,90,2,1,LD,2,3,approximate - verify
+bread,Bread (2 slices),staple,2 slices,160,5,30,2,12,0,1,B,3,4,approximate - verify
+oats,Oats with milk,staple,1 bowl,340,14.5,45,11.5,95,1,1,B,1,4,approximate - verify
+daal_masoor,Daal masoor,legume,1 cup cooked,230,18,40,1,45,2,1,LD,2,4,approximate - verify
+daal_chana,Daal chana,legume,1 cup cooked,270,14.5,45,4.5,50,2,1,LD,2,4,approximate - verify
+daal_mash,Daal mash,legume,1 cup cooked,210,14,39,1,70,2,1,LD,2,4,approximate - verify
+lobia,Lobia,legume,1 cup cooked,200,13,35,1,50,2,1,LD,2,4,approximate - verify
+chana_masala,Chana masala,legume,1 cup,290,14,45,6,60,2,1,LD,2,4,approximate - verify
+soya,Soya chunks curry,legume,1 cup,250,25,18,8,70,2,1,LD,2,4,approximate - verify
+egg_boiled,Boiled egg,protein,1 egg,78,6.3,0.6,5.3,38,1,1,BLD,3,5,approximate - verify
+omelette,Omelette (2 eggs),protein,2 eggs,190,13,1.5,14,90,2,1,BLD,2,4,approximate - verify
+chicken_salan,Chicken curry,protein,150 g,300,28,6,18,250,2,0,LD,2,3,approximate - verify
+chicken_breast,Pan-cooked chicken breast,protein,120 g,200,36,0,5,190,2,0,LD,2,3,approximate - verify
+beef_curry,Beef curry,protein,150 g,330,30,5,20,380,2,0,LD,1,2,approximate - verify
+keema,Keema (mince),protein,100 g,250,22,3,17,320,2,0,LD,1,2,approximate - verify
+fish_fry,Fried fish,protein,120 g,220,24,0,13,280,2,0,LD,1,2,approximate - verify
+aloo,Aloo sabzi,veg,1 cup,190,3.5,30,7,45,2,1,LD,2,4,approximate - verify
+bhindi,Bhindi,veg,1 cup,130,3,14,7,50,2,1,LD,1,3,approximate - verify
+palak,Palak,veg,1 cup,150,6,10,9,40,2,1,LD,1,3,approximate - verify
+mixveg,Mixed vegetables,veg,1 cup,140,4,18,6,50,2,1,LD,1,4,approximate - verify
+salad,Cucumber and tomato salad,veg,1 plate,40,1.5,8,0.4,30,0,1,LD,2,7,approximate - verify
+dahi,Yogurt (dahi),dairy,150 g,90,5,7,5,40,0,1,BLS,2,5,approximate - verify
+milk,UHT milk,dairy,250 ml packet,150,8,12,8,70,0,1,BS,2,5,approximate - verify
+chai,Milk tea,drink,1 cup,90,3,12,3,25,1,1,BS,2,7,approximate - verify
+banana,Banana,fruit,1 medium,105,1.3,27,0.4,20,0,1,BS,2,5,approximate - verify
+apple,Apple,fruit,1 medium,95,0.5,25,0.3,50,0,1,S,2,4,approximate - verify
+guava,Guava,fruit,1 medium,70,2.5,14,1,30,0,1,S,2,4,approximate - verify
+dates,Dates,fruit,5 pieces,110,1,30,0.1,40,0,1,BS,2,4,approximate - verify
+chana_roast,Roasted chana,legume,50 g,190,10,29,3,30,0,1,S,3,5,approximate - verify
+peanuts,Peanuts,snack,30 g,170,7.5,5,14,30,0,1,S,3,5,approximate - verify
+peanut_butter,Peanut butter (2 tbsp),snack,2 tbsp 32 g,190,7,7,16,40,0,1,BS,2,4,approximate - verify

@@ -1,0 +1,785 @@
+[
+ {
+  "id": "bw_squat",
+  "name": "Bodyweight squat",
+  "pattern": "squat",
+  "eq": [],
+  "lvl": 1,
+  "met": 5,
+  "flags": [
+   "knee"
+  ],
+  "steps": [
+   "Feet shoulder-width apart, chest up.",
+   "Sit your hips back and down until thighs are near parallel, then stand up."
+  ]
+ },
+ {
+  "id": "wall_sit",
+  "name": "Wall sit",
+  "pattern": "squat",
+  "eq": [],
+  "lvl": 1,
+  "met": 3.5,
+  "flags": [
+   "knee"
+  ],
+  "steps": [
+   "Back flat on a wall, slide down until knees are at 90 degrees.",
+   "Hold without leaning on your hands."
+  ]
+ },
+ {
+  "id": "jump_squat",
+  "name": "Jump squat",
+  "pattern": "squat",
+  "eq": [],
+  "lvl": 3,
+  "met": 8,
+  "flags": [
+   "high",
+   "knee"
+  ],
+  "steps": [
+   "Squat down, then jump up explosively.",
+   "Land softly with bent knees and go straight into the next rep."
+  ]
+ },
+ {
+  "id": "split_squat",
+  "name": "Split squat",
+  "pattern": "lunge",
+  "eq": [],
+  "lvl": 1,
+  "met": 4.5,
+  "flags": [
+   "knee"
+  ],
+  "steps": [
+   "Step one foot forward, back knee under your hip.",
+   "Lower straight down and push through the front heel."
+  ]
+ },
+ {
+  "id": "walking_lunge",
+  "name": "Walking lunge",
+  "pattern": "lunge",
+  "eq": [],
+  "lvl": 2,
+  "met": 5,
+  "flags": [
+   "knee"
+  ],
+  "steps": [
+   "Step forward and lower until both knees are about 90 degrees.",
+   "Push off the front foot into the next step."
+  ]
+ },
+ {
+  "id": "glute_bridge",
+  "name": "Glute bridge",
+  "pattern": "hinge",
+  "eq": [],
+  "lvl": 1,
+  "met": 3.5,
+  "flags": [],
+  "steps": [
+   "Lie on your back, knees bent, feet flat.",
+   "Push your hips up, squeeze your glutes, lower slowly."
+  ]
+ },
+ {
+  "id": "pushup",
+  "name": "Push-up (or knee push-up)",
+  "pattern": "push",
+  "eq": [],
+  "lvl": 1,
+  "met": 4,
+  "flags": [],
+  "steps": [
+   "Hands under shoulders, body in a straight line.",
+   "Lower your chest to the floor and press back up. Drop to your knees if needed."
+  ]
+ },
+ {
+  "id": "incline_pushup",
+  "name": "Incline push-up (hands on a table)",
+  "pattern": "push",
+  "eq": [],
+  "lvl": 1,
+  "met": 3.5,
+  "flags": [],
+  "steps": [
+   "Hands on a sturdy table or sofa edge.",
+   "Lower your chest to the edge and press up."
+  ]
+ },
+ {
+  "id": "pike_pushup",
+  "name": "Pike push-up",
+  "pattern": "push",
+  "eq": [],
+  "lvl": 3,
+  "met": 4.5,
+  "flags": [
+   "overhead"
+  ],
+  "steps": [
+   "Hips high in an upside-down V.",
+   "Bend your elbows to lower your head toward the floor, then press up."
+  ]
+ },
+ {
+  "id": "chair_dip",
+  "name": "Chair dips",
+  "pattern": "push",
+  "eq": [],
+  "lvl": 2,
+  "met": 4,
+  "flags": [
+   "shoulder"
+  ],
+  "steps": [
+   "Hands on a sturdy chair behind you, legs forward.",
+   "Bend your elbows to about 90 degrees and press up."
+  ]
+ },
+ {
+  "id": "superman",
+  "name": "Superman hold",
+  "pattern": "pull",
+  "eq": [],
+  "lvl": 1,
+  "met": 3,
+  "flags": [],
+  "steps": [
+   "Lie face down, arms forward.",
+   "Lift arms, chest and legs a few centimetres and hold."
+  ]
+ },
+ {
+  "id": "prone_ytw",
+  "name": "Prone Y-T-W raise",
+  "pattern": "pull",
+  "eq": [],
+  "lvl": 1,
+  "met": 3,
+  "flags": [],
+  "steps": [
+   "Lie face down.",
+   "Raise your arms into a Y, then a T, then a W shape, squeezing your shoulder blades."
+  ]
+ },
+ {
+  "id": "table_row",
+  "name": "Inverted row under a sturdy table",
+  "pattern": "pull",
+  "eq": [],
+  "lvl": 3,
+  "met": 5,
+  "flags": [],
+  "steps": [
+   "Lie under a strong table and grip the edge.",
+   "Pull your chest to the table keeping your body straight."
+  ]
+ },
+ {
+  "id": "plank",
+  "name": "Plank",
+  "pattern": "core",
+  "eq": [],
+  "lvl": 1,
+  "met": 3,
+  "flags": [],
+  "steps": [
+   "Forearms on the floor, body in a straight line.",
+   "Squeeze your stomach and glutes and hold."
+  ]
+ },
+ {
+  "id": "side_plank",
+  "name": "Side plank",
+  "pattern": "core",
+  "eq": [],
+  "lvl": 2,
+  "met": 3,
+  "flags": [],
+  "steps": [
+   "Lie on your side on one forearm.",
+   "Lift your hips so your body is a straight line and hold."
+  ]
+ },
+ {
+  "id": "dead_bug",
+  "name": "Dead bug",
+  "pattern": "core",
+  "eq": [],
+  "lvl": 1,
+  "met": 3,
+  "flags": [],
+  "steps": [
+   "Lie on your back, arms up, knees over hips.",
+   "Lower the opposite arm and leg slowly while your back stays flat."
+  ]
+ },
+ {
+  "id": "mountain_climber",
+  "name": "Mountain climbers",
+  "pattern": "cardio",
+  "eq": [],
+  "lvl": 2,
+  "met": 8,
+  "flags": [
+   "high"
+  ],
+  "steps": [
+   "Start in a high plank.",
+   "Drive your knees to your chest one after the other, quickly."
+  ]
+ },
+ {
+  "id": "jumping_jack",
+  "name": "Jumping jacks",
+  "pattern": "cardio",
+  "eq": [],
+  "lvl": 1,
+  "met": 7.7,
+  "flags": [
+   "high"
+  ],
+  "steps": [
+   "Jump your feet wide while raising your arms overhead.",
+   "Jump back to the start and keep a steady rhythm."
+  ]
+ },
+ {
+  "id": "high_knees",
+  "name": "High knees",
+  "pattern": "cardio",
+  "eq": [],
+  "lvl": 2,
+  "met": 8,
+  "flags": [
+   "high"
+  ],
+  "steps": [
+   "Run on the spot lifting your knees to hip height.",
+   "Pump your arms."
+  ]
+ },
+ {
+  "id": "burpee",
+  "name": "Burpees",
+  "pattern": "cardio",
+  "eq": [],
+  "lvl": 3,
+  "met": 8,
+  "flags": [
+   "high"
+  ],
+  "steps": [
+   "Squat, place your hands down and jump your feet back to a plank.",
+   "Do a push-up, jump your feet in and jump up."
+  ]
+ },
+ {
+  "id": "brisk_walk",
+  "name": "Brisk walk",
+  "pattern": "cardio",
+  "eq": [],
+  "lvl": 1,
+  "met": 4.3,
+  "flags": [],
+  "steps": [
+   "Walk fast enough that you can talk but not sing.",
+   "Swing your arms and keep your head up."
+  ]
+ },
+ {
+  "id": "jog",
+  "name": "Jog",
+  "pattern": "cardio",
+  "eq": [],
+  "lvl": 2,
+  "met": 7,
+  "flags": [
+   "high",
+   "knee"
+  ],
+  "steps": [
+   "Run at a pace where you can still speak short sentences.",
+   "Land softly and keep your shoulders relaxed."
+  ]
+ },
+ {
+  "id": "stairs",
+  "name": "Stair climbing",
+  "pattern": "cardio",
+  "eq": [],
+  "lvl": 2,
+  "met": 8,
+  "flags": [
+   "knee"
+  ],
+  "steps": [
+   "Climb stairs at a steady pace.",
+   "Walk down slowly to recover."
+  ]
+ },
+ {
+  "id": "goblet_squat",
+  "name": "Goblet squat",
+  "pattern": "squat",
+  "eq": [
+   "dumbbells"
+  ],
+  "lvl": 1,
+  "met": 5,
+  "flags": [
+   "knee"
+  ],
+  "steps": [
+   "Hold one dumbbell at your chest.",
+   "Squat down keeping your chest tall, then stand."
+  ]
+ },
+ {
+  "id": "db_rdl",
+  "name": "Dumbbell Romanian deadlift",
+  "pattern": "hinge",
+  "eq": [
+   "dumbbells"
+  ],
+  "lvl": 2,
+  "met": 5,
+  "flags": [
+   "spine"
+  ],
+  "steps": [
+   "Hold dumbbells in front of your thighs.",
+   "Push your hips back with a flat back until you feel your hamstrings, then stand."
+  ]
+ },
+ {
+  "id": "db_row",
+  "name": "One-arm dumbbell row",
+  "pattern": "pull",
+  "eq": [
+   "dumbbells"
+  ],
+  "lvl": 1,
+  "met": 4.5,
+  "flags": [],
+  "steps": [
+   "Hand and knee on a bench or chair, back flat.",
+   "Pull the dumbbell to your hip and lower slowly."
+  ]
+ },
+ {
+  "id": "db_press",
+  "name": "Dumbbell shoulder press",
+  "pattern": "push",
+  "eq": [
+   "dumbbells"
+  ],
+  "lvl": 1,
+  "met": 4.5,
+  "flags": [
+   "overhead"
+  ],
+  "steps": [
+   "Dumbbells at shoulder height.",
+   "Press overhead without arching your back, then lower."
+  ]
+ },
+ {
+  "id": "db_bench",
+  "name": "Dumbbell bench press",
+  "pattern": "push",
+  "eq": [
+   "dumbbells",
+   "bench"
+  ],
+  "lvl": 2,
+  "met": 5,
+  "flags": [],
+  "steps": [
+   "Lie on a bench with dumbbells over your chest.",
+   "Lower to chest level and press up."
+  ]
+ },
+ {
+  "id": "db_floor_press",
+  "name": "Dumbbell floor press",
+  "pattern": "push",
+  "eq": [
+   "dumbbells"
+  ],
+  "lvl": 1,
+  "met": 4.5,
+  "flags": [],
+  "steps": [
+   "Lie on the floor with dumbbells over your chest.",
+   "Lower until your elbows touch the floor, then press up."
+  ]
+ },
+ {
+  "id": "db_rev_lunge",
+  "name": "Dumbbell reverse lunge",
+  "pattern": "lunge",
+  "eq": [
+   "dumbbells"
+  ],
+  "lvl": 2,
+  "met": 5,
+  "flags": [
+   "knee"
+  ],
+  "steps": [
+   "Hold dumbbells at your sides.",
+   "Step back and lower until both knees are about 90 degrees, then stand."
+  ]
+ },
+ {
+  "id": "db_curl",
+  "name": "Dumbbell curl",
+  "pattern": "pull",
+  "eq": [
+   "dumbbells"
+  ],
+  "lvl": 1,
+  "met": 3.5,
+  "flags": [],
+  "steps": [
+   "Elbows by your sides.",
+   "Curl the dumbbells to your shoulders and lower slowly."
+  ]
+ },
+ {
+  "id": "band_row",
+  "name": "Resistance-band row",
+  "pattern": "pull",
+  "eq": [
+   "bands"
+  ],
+  "lvl": 1,
+  "met": 4,
+  "flags": [],
+  "steps": [
+   "Anchor the band at chest height.",
+   "Pull your hands to your ribs and squeeze your shoulder blades."
+  ]
+ },
+ {
+  "id": "band_pullapart",
+  "name": "Band pull-apart",
+  "pattern": "pull",
+  "eq": [
+   "bands"
+  ],
+  "lvl": 1,
+  "met": 3,
+  "flags": [],
+  "steps": [
+   "Hold the band in front of you with straight arms.",
+   "Pull it apart to your chest level and return slowly."
+  ]
+ },
+ {
+  "id": "band_press",
+  "name": "Band chest press",
+  "pattern": "push",
+  "eq": [
+   "bands"
+  ],
+  "lvl": 1,
+  "met": 4,
+  "flags": [],
+  "steps": [
+   "Anchor the band behind you.",
+   "Press your hands forward until your arms are straight."
+  ]
+ },
+ {
+  "id": "band_squat",
+  "name": "Band squat",
+  "pattern": "squat",
+  "eq": [
+   "bands"
+  ],
+  "lvl": 1,
+  "met": 5,
+  "flags": [
+   "knee"
+  ],
+  "steps": [
+   "Stand on the band, hold the ends at your shoulders.",
+   "Squat down and stand up against the resistance."
+  ]
+ },
+ {
+  "id": "pullup",
+  "name": "Pull-up",
+  "pattern": "pull",
+  "eq": [
+   "pullup_bar"
+  ],
+  "lvl": 3,
+  "met": 6,
+  "flags": [],
+  "steps": [
+   "Hang from the bar with hands just wider than shoulders.",
+   "Pull your chin over the bar and lower under control."
+  ]
+ },
+ {
+  "id": "knee_raise",
+  "name": "Hanging knee raise",
+  "pattern": "core",
+  "eq": [
+   "pullup_bar"
+  ],
+  "lvl": 2,
+  "met": 4,
+  "flags": [],
+  "steps": [
+   "Hang from the bar.",
+   "Raise your knees toward your chest without swinging."
+  ]
+ },
+ {
+  "id": "jump_rope",
+  "name": "Jump rope",
+  "pattern": "cardio",
+  "eq": [
+   "jump_rope"
+  ],
+  "lvl": 2,
+  "met": 11.8,
+  "flags": [
+   "high"
+  ],
+  "steps": [
+   "Turn the rope with your wrists.",
+   "Jump just high enough to clear it and land softly."
+  ]
+ },
+ {
+  "id": "barbell_squat",
+  "name": "Barbell back squat",
+  "pattern": "squat",
+  "eq": [
+   "barbell"
+  ],
+  "lvl": 2,
+  "met": 6,
+  "flags": [
+   "knee",
+   "spine"
+  ],
+  "steps": [
+   "Bar on your upper back, feet shoulder-width apart.",
+   "Squat to parallel keeping your chest up, then drive up."
+  ]
+ },
+ {
+  "id": "deadlift",
+  "name": "Deadlift",
+  "pattern": "hinge",
+  "eq": [
+   "barbell"
+  ],
+  "lvl": 3,
+  "met": 6,
+  "flags": [
+   "spine"
+  ],
+  "steps": [
+   "Bar over mid-foot, flat back.",
+   "Push the floor away and stand tall, then lower with control."
+  ]
+ },
+ {
+  "id": "bench_press",
+  "name": "Barbell bench press",
+  "pattern": "push",
+  "eq": [
+   "barbell",
+   "bench"
+  ],
+  "lvl": 2,
+  "met": 5,
+  "flags": [],
+  "steps": [
+   "Lie on the bench, grip just wider than shoulders.",
+   "Lower the bar to your chest and press up. Use a spotter for heavy sets."
+  ]
+ },
+ {
+  "id": "lat_pulldown",
+  "name": "Lat pulldown",
+  "pattern": "pull",
+  "eq": [
+   "cable"
+  ],
+  "lvl": 1,
+  "met": 4.5,
+  "flags": [],
+  "steps": [
+   "Grip the bar wide and sit tall.",
+   "Pull it to your upper chest and return slowly."
+  ]
+ },
+ {
+  "id": "seated_row",
+  "name": "Seated cable row",
+  "pattern": "pull",
+  "eq": [
+   "cable"
+  ],
+  "lvl": 1,
+  "met": 4.5,
+  "flags": [],
+  "steps": [
+   "Sit tall with a flat back.",
+   "Pull the handle to your stomach and squeeze your shoulder blades."
+  ]
+ },
+ {
+  "id": "leg_press",
+  "name": "Leg press",
+  "pattern": "squat",
+  "eq": [
+   "machine"
+  ],
+  "lvl": 1,
+  "met": 5,
+  "flags": [
+   "knee"
+  ],
+  "steps": [
+   "Feet shoulder-width on the plate.",
+   "Lower until your knees are about 90 degrees and press without locking out."
+  ]
+ },
+ {
+  "id": "machine_press",
+  "name": "Machine chest press",
+  "pattern": "push",
+  "eq": [
+   "machine"
+  ],
+  "lvl": 1,
+  "met": 4.5,
+  "flags": [],
+  "steps": [
+   "Adjust the seat so the handles are at chest height.",
+   "Press forward and return slowly."
+  ]
+ },
+ {
+  "id": "leg_curl",
+  "name": "Leg curl machine",
+  "pattern": "hinge",
+  "eq": [
+   "machine"
+  ],
+  "lvl": 1,
+  "met": 4,
+  "flags": [],
+  "steps": [
+   "Adjust the pad above your heels.",
+   "Curl your heels toward your hips and lower slowly."
+  ]
+ },
+ {
+  "id": "triceps_pushdown",
+  "name": "Cable triceps pushdown",
+  "pattern": "push",
+  "eq": [
+   "cable"
+  ],
+  "lvl": 1,
+  "met": 3.5,
+  "flags": [],
+  "steps": [
+   "Elbows pinned to your sides.",
+   "Press the handle down until your arms are straight."
+  ]
+ },
+ {
+  "id": "face_pull",
+  "name": "Cable face pull",
+  "pattern": "pull",
+  "eq": [
+   "cable"
+  ],
+  "lvl": 2,
+  "met": 3.5,
+  "flags": [],
+  "steps": [
+   "Rope at face height.",
+   "Pull toward your face with elbows high and squeeze."
+  ]
+ },
+ {
+  "id": "treadmill",
+  "name": "Treadmill (walk or jog)",
+  "pattern": "cardio",
+  "eq": [
+   "machine"
+  ],
+  "lvl": 1,
+  "met": 7,
+  "flags": [],
+  "steps": [
+   "Pick a speed you can hold while talking in short sentences.",
+   "Add a little incline to make it harder."
+  ]
+ },
+ {
+  "id": "bike",
+  "name": "Stationary bike",
+  "pattern": "cardio",
+  "eq": [
+   "machine"
+  ],
+  "lvl": 1,
+  "met": 7,
+  "flags": [],
+  "steps": [
+   "Adjust the seat to hip height.",
+   "Keep a steady cadence at a moderate effort."
+  ]
+ },
+ {
+  "id": "rower",
+  "name": "Rowing machine",
+  "pattern": "cardio",
+  "eq": [
+   "machine"
+  ],
+  "lvl": 2,
+  "met": 7,
+  "flags": [],
+  "steps": [
+   "Push with your legs first, then lean back and pull.",
+   "Return in the reverse order."
+  ]
+ },
+ {
+  "id": "elliptical",
+  "name": "Elliptical",
+  "pattern": "cardio",
+  "eq": [
+   "machine"
+  ],
+  "lvl": 1,
+  "met": 5,
+  "flags": [],
+  "steps": [
+   "Stand tall and hold the handles lightly.",
+   "Keep a smooth, steady rhythm."
+  ]
+ }
+]

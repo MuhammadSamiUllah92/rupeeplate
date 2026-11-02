@@ -1,0 +1,5 @@
+pulp==3.3.2
+fastapi==0.162.0
+uvicorn==0.54.0
+httpx
+pypdf
